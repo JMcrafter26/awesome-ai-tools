@@ -1,4 +1,4 @@
-# AI Tools List
+# AWESOME AI Tools
 
 A list of useful ai tools on github (and on the internet)
 
