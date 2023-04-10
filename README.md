@@ -55,15 +55,15 @@ Also huge thanks to people who contributed to this list and helped to expand thi
 
 All awesome contributers:
 <br/>
-<a href="https://github.com/JMcrafter26/ai-tools-list/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=JMcrafter26/ai-tools-list" /> <a>
+<a href="https://github.com/JMcrafter26/awesome-ai-tools/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=JMcrafter26/awesome-ai-tools" /> <a>
 
 If you know any useful ai tools on github (that are not listed here) and you want to join these people on the list, open an issue or pull request.
 
 # Stats
 
-<a href="https://github.com/JMcrafter26/ai-tools-list/stargazers" target="_blank"><img src="https://api.jm26.net/badge/beta?url=https://shields.io/github/stars/jmcrafter26/ai-tools-list.json&color=FFDB2D&label=Stars" height="20px" alt="Stars " style="display: inline-block; vertical-align: middle;"></a>
-<a href="https://github.com/JMcrafter26/ai-tools-list/graphs/contributors" target="_blank"><img src="https://api.jm26.net/badge/beta?url=https://img.shields.io/github/contributors/jmcrafter26/ai-tools-list.json&color=blue&format=cap" height="20px" style="display: inline-block; vertical-align: middle;"></a>
+<a href="https://github.com/JMcrafter26/awesome-ai-tools/stargazers" target="_blank"><img src="https://api.jm26.net/badge/beta?url=https://shields.io/github/stars/jmcrafter26/awesome-ai-tools.json&color=FFDB2D&label=Stars" height="20px" alt="Stars " style="display: inline-block; vertical-align: middle;"></a>
+<a href="https://github.com/JMcrafter26/awesome-ai-tools/graphs/contributors" target="_blank"><img src="https://api.jm26.net/badge/beta?url=https://img.shields.io/github/contributors/jmcrafter26/awesome-ai-tools.json&color=blue&format=cap" height="20px" style="display: inline-block; vertical-align: middle;"></a>
 <img src="https://api.jm26.net/badge/beta.php?url=https://api.countapi.xyz/hit/jmcrafter26/ai-tools-list.json&label=Repo%20visits&color=green" height="20px" alt="Get these COOL BADGES" style="display: inline-block; vertical-align: middle;">
 <a href="https://github.com/JMcrafter26/php-badges" target="_blank"><img src="https://api.jm26.net/badge/beta?g&label=Get%20these&icon=f41b&message=COOL%20BADGES&color=de4ff4" height="20px" alt="Get these COOL BADGES" style="display: inline-block; vertical-align: middle;"></a>
 
