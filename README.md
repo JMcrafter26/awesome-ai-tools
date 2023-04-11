@@ -1,6 +1,6 @@
 # AWESOME AI Tools
 
-A list of useful ai tools on github (and on the internet)
+A list of AWESOME AI tools on Github
 
 <!-- Image -->
 
