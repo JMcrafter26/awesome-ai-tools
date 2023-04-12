@@ -10,8 +10,6 @@ A list of AWESOME AI tools on Github
 <div>Table of contents: <a href="#text-generation">Text generation</a> | <a href="#image-generation">Image generation</a> | <a href="#music-generation">Music generation</a> | <a href="#image-enchancer">Image enchancer</a> | <a href="#voice-changercloner">Voice changer/cloner</a> | <a href="#how-to-contribute">How to contribute</a> | <a href="#thanks">Thanks</a> | <a href="#stats">Stats</a></div> 
 
 
-# Github
-
 ## Text generation
 
 <a href="https://github.com/cocktailpeanut/dalai" ><img src="https://opengraph.githubassets.com/727/cocktailpeanut/dalai" ></a>
@@ -32,6 +30,11 @@ A list of AWESOME AI tools on Github
 
 <a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning"><img src="https://opengraph.githubassets.com/727/CorentinJ/Real-Time-Voice-Cloning"></a>
 
+## Future Plans
+
+I am working on an automatic voting system. You can view the demo here: [DEMO](https://jmcrafter26.github.io/awesome-ai-tools/list/)
+
+Please note, that the demo design can change over time
 
 # How to contribute
 
