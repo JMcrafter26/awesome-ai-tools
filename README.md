@@ -7,18 +7,8 @@ A list of AWESOME AI tools on Github
 
 *This list was created a few days ago and does not contain that many tools, so please consider helping to expand the list*
 
-## Table of contents
- 
-- [Introduction](#ai-tools-list)
-- [Github](#github)
-	- [Text generation](#text-generation)
-	- [Image generation](#image-generation)
-	- [Music generation](#music-generation)
-	- [Image enchancer](#image-enchancer)
-	- [Voice changer/cloner](#voice-changercloner)
-- [How to contribute](#how-to-contribute)
-- [Thanks](#thanks)
-- [Stats](#stats)
+<div>Table of contents: <a href="#text-generation">Text generation</a> | <a href="#image-generation">Image generation</a> | <a href="#music-generation">Music generation</a> | <a href="#image-enchancer">Image enchancer</a> | <a href="#voice-changercloner">Voice changer/cloner</a> | <a href="#how-to-contribute">How to contribute</a> | <a href="#thanks">Thanks</a> | <a href="#stats">Stats</a></div> 
+
 
 # Github
 
