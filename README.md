@@ -13,6 +13,8 @@ A list of AWESOME AI tools on Github
 
 <a href="https://github.com/cocktailpeanut/dalai" ><img src="https://opengraph.githubassets.com/727/cocktailpeanut/dalai" ></a>
 
+<a href="https://github.com/Torantulino/Auto-GPT" ><img src="https://opengraph.githubassets.com/727/Torantulino/Auto-GPT" ></a>
+
 ## Image generation 
 
 <a href="https://github.com/CompVis/stable-diffusion" ><img src="https://opengraph.githubassets.com/727/CompVis/stable-diffusion" ></a>
