@@ -11,6 +11,8 @@ A list of AWESOME AI tools on Github
 
 ## Text generation
 
+<a href="https://github.com/nomic-ai/gpt4all" ><img src="https://opengraph.githubassets.com/727/nomic-ai/gpt4all" ></a>
+
 <a href="https://github.com/cocktailpeanut/dalai" ><img src="https://opengraph.githubassets.com/727/cocktailpeanut/dalai" ></a>
 
 <a href="https://github.com/Torantulino/Auto-GPT" ><img src="https://opengraph.githubassets.com/727/Torantulino/Auto-GPT" ></a>
