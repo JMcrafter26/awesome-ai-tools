@@ -31,9 +31,11 @@ A list of AWESOME AI tools on Github
 
 <a href="https://github.com/xinntao/Real-ESRGAN" ><img src="https://opengraph.githubassets.com/727/xinntao/Real-ESRGAN" ></a>
 
-## Voice changer/cloner
+## Voice/speech ai
 
 <a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning"><img src="https://opengraph.githubassets.com/727/CorentinJ/Real-Time-Voice-Cloning"></a>
+
+<a href="https://github.com/AIGC-Audio/AudioGPT" ><img src="https://opengraph.githubassets.com/727/AIGC-Audio/AudioGPT" ></a>
 
 ## Future Plans
 
