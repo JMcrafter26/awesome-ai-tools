@@ -17,6 +17,8 @@ A list of AWESOME AI tools on Github
 
 <a href="https://github.com/Torantulino/Auto-GPT" ><img src="https://opengraph.githubassets.com/727/Torantulino/Auto-GPT" ></a>
 
+<a href="[URL](https://github.com/imartinez/privateGPT)" ><img src="https://opengraph.githubassets.com/R4ND0MSTR1NG/imartinez/privateGPT" ></a>
+
 <a href="https://github.com/reworkd/AgentGPT" ><img src="https://opengraph.githubassets.com/727/reworkd/AgentGPT" ></a>
 
 ## Image generation 
