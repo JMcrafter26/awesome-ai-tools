@@ -24,6 +24,7 @@ A list of AWESOME AI tools on Github
 ## Image generation 
 
 <a href="https://github.com/CompVis/stable-diffusion" ><img src="https://opengraph.githubassets.com/727/CompVis/stable-diffusion" ></a>
+<a href="[URL](https://github.com/Stability-AI/StableStudio)" ><img src="https://opengraph.githubassets.com/R4ND0MSTR1NG/Stability-AI/StableStudio" ></a>
 
 ## Music generation
 
