@@ -40,7 +40,7 @@ A list of AWESOME AI tools on Github
 
 <a href="https://github.com/AIGC-Audio/AudioGPT" ><img src="https://opengraph.githubassets.com/727/AIGC-Audio/AudioGPT" ></a>
 
-## LLM Observability
+## Troubleshooting
 
 <a href="https://github.com/Arize-ai/phoenix"><img src="https://opengraph.githubassets.com/727/Arize-ai/phoenix"></a>
 
@@ -64,7 +64,8 @@ Also huge thanks to people who contributed to this list and helped to expand thi
 All awesome contributers:
 <br/>
 <a href="https://github.com/JMcrafter26/awesome-ai-tools/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=JMcrafter26/awesome-ai-tools" /> <a>
+  <img src="https://contrib.rocks/image?repo=JMcrafter26/awesome-ai-tools" />
+</a>
 
 If you know any useful ai tools on github (that are not listed here) and you want to join these people on the list, open an issue or pull request.
 
