@@ -21,6 +21,10 @@ A list of AWESOME AI tools on Github
 
 <a href="https://github.com/reworkd/AgentGPT" ><img src="https://opengraph.githubassets.com/727/reworkd/AgentGPT" ></a>
 
+<a href="https://github.com/PromtEngineer/localGPT" ><img src="https://opengraph.githubassets.com/R4ND0MSTR1NG/PromtEngineer/localGPT" ></a>
+
+[Back to top ⬆](#AWESOME-ai-tools)
+
 ## Image generation 
 
 <a href="https://github.com/CompVis/stable-diffusion" ><img src="https://opengraph.githubassets.com/727/CompVis/stable-diffusion" ></a>
