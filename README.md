@@ -17,7 +17,7 @@ A list of AWESOME AI tools on Github
 
 <a href="https://github.com/Torantulino/Auto-GPT" ><img src="https://opengraph.githubassets.com/727/Torantulino/Auto-GPT" ></a>
 
-<a href="[URL](https://github.com/imartinez/privateGPT)" ><img src="https://opengraph.githubassets.com/R4ND0MSTR1NG/imartinez/privateGPT" ></a>
+<a href="https://github.com/imartinez/privateGPT" ><img src="https://opengraph.githubassets.com/R4ND0MSTR1NG/imartinez/privateGPT" ></a>
 
 <a href="https://github.com/reworkd/AgentGPT" ><img src="https://opengraph.githubassets.com/727/reworkd/AgentGPT" ></a>
 
@@ -30,13 +30,22 @@ A list of AWESOME AI tools on Github
 <a href="https://github.com/CompVis/stable-diffusion" ><img src="https://opengraph.githubassets.com/727/CompVis/stable-diffusion" ></a>
 <a href="[URL](https://github.com/Stability-AI/StableStudio)" ><img src="https://opengraph.githubassets.com/R4ND0MSTR1NG/Stability-AI/StableStudio" ></a>
 
+
+[Back to top ⬆](#AWESOME-ai-tools)
+
 ## Music generation
 
 <a href="https://github.com/openai/jukebox" ><img src="https://opengraph.githubassets.com/727/openai/jukebox" ></a>
 
+
+[Back to top ⬆](#AWESOME-ai-tools)
+
 ## Image enchancer
 
 <a href="https://github.com/xinntao/Real-ESRGAN" ><img src="https://opengraph.githubassets.com/727/xinntao/Real-ESRGAN" ></a>
+
+
+[Back to top ⬆](#AWESOME-ai-tools)
 
 ## Voice/speech ai
 
@@ -44,9 +53,15 @@ A list of AWESOME AI tools on Github
 
 <a href="https://github.com/AIGC-Audio/AudioGPT" ><img src="https://opengraph.githubassets.com/727/AIGC-Audio/AudioGPT" ></a>
 
+
+[Back to top ⬆](#AWESOME-ai-tools)
+
 ## Troubleshooting
 
 <a href="https://github.com/Arize-ai/phoenix"><img src="https://opengraph.githubassets.com/727/Arize-ai/phoenix"></a>
+
+
+[Back to top ⬆](#AWESOME-ai-tools)
 
 ## Future Plans
 
@@ -79,5 +94,7 @@ If you know any useful ai tools on github (that are not listed here) and you wan
 <a href="https://github.com/JMcrafter26/awesome-ai-tools/graphs/contributors" target="_blank"><img src="https://api.jm26.net/badge/beta?url=https://img.shields.io/github/contributors/jmcrafter26/awesome-ai-tools.json&color=blue&format=cap" height="20px" style="display: inline-block; vertical-align: middle;"></a>
 <img src="https://api.jm26.net/badge/beta.php?url=https://api.countapi.xyz/hit/jmcrafter26/ai-tools-list.json&label=Repo%20visits&color=green" height="20px" alt="Get these COOL BADGES" style="display: inline-block; vertical-align: middle;">
 <a href="https://github.com/JMcrafter26/php-badges" target="_blank"><img src="https://api.jm26.net/badge/beta?g&label=Get%20these&icon=f41b&message=COOL%20BADGES&color=de4ff4" height="20px" alt="Get these COOL BADGES" style="display: inline-block; vertical-align: middle;"></a>
+
+[Back to top ⬆](#AWESOME-ai-tools)
 
 Made by a [HUMAN 😵](https://github.com/JMcrafter26)
