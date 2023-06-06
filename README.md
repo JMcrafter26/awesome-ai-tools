@@ -23,6 +23,8 @@ A list of AWESOME AI tools on Github
 
 <a href="https://github.com/PromtEngineer/localGPT" ><img src="https://opengraph.githubassets.com/R4ND0MSTR1NG/PromtEngineer/localGPT" ></a>
 
+<a href="https://github.com/mlc-ai/mlc-llm" ><img src="https://opengraph.githubassets.com/R4ND0MSTR1NG/mlc-ai/mlc-llm" ></a>
+
 [Back to top ⬆](#AWESOME-ai-tools)
 
 ## Image generation 
