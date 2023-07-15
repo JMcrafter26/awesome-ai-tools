@@ -25,7 +25,7 @@ A list of AWESOME AI tools on Github
 
 <a href="https://github.com/mlc-ai/mlc-llm" ><img src="https://opengraph.githubassets.com/R4ND0MSTR1NG/mlc-ai/mlc-llm" ></a>
 
-<a href="https://github.com/assafelovic/gpt-researcher" ><img src="https://opengraph.githubassets.com/assafelovic/gpt-researcher" ></a>
+<a href="https://github.com/assafelovic/gpt-researcher" ><img src="https://opengraph.githubassets.com/R4ND0MSTR1NG/assafelovic/gpt-researcher" ></a>
 
 [Back to top ⬆](#AWESOME-ai-tools)
 
