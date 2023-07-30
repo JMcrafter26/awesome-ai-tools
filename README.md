@@ -27,6 +27,8 @@ A list of AWESOME AI tools on Github
 
 <a href="https://github.com/assafelovic/gpt-researcher" ><img src="https://opengraph.githubassets.com/R4ND0MSTR1NG/assafelovic/gpt-researcher" ></a>
 
+<a href="https://github.com/ohmplatform/FreedomGPT" ><img src="https://opengraph.githubassets.com/R4ND0MSTR1NG/ohmplatform/FreedomGPT" ></a>
+
 [Back to top ⬆](#AWESOME-ai-tools)
 
 ## Image generation 
