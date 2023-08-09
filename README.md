@@ -29,6 +29,8 @@ A list of AWESOME AI tools on Github
 
 <a href="https://github.com/ohmplatform/FreedomGPT" ><img src="https://opengraph.githubassets.com/R4ND0MSTR1NG/ohmplatform/FreedomGPT" ></a>
 
+<a href="https://github.com/logspace-ai/langflow" ><img src="https://opengraph.githubassets.com/R4ND0MSTR1NG/logspace-ai/langflow" ></a>
+
 [Back to top ⬆](#AWESOME-ai-tools)
 
 ## Image generation 
