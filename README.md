@@ -51,7 +51,7 @@ A list of AWESOME AI tools on Github
 ## Image enchancer
 
 <a href="https://github.com/xinntao/Real-ESRGAN" ><img src="https://opengraph.githubassets.com/727/xinntao/Real-ESRGAN" ></a>
-
+<a href="https://github.com/TencentARC/GFPGAN" ><img src="https://opengraph.githubassets.com/R4ND0MSTR1NG/TencentARC/GFPGAN" ></a>
 
 [Back to top ⬆](#AWESOME-ai-tools)
 
@@ -60,6 +60,12 @@ A list of AWESOME AI tools on Github
 <a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning"><img src="https://opengraph.githubassets.com/727/CorentinJ/Real-Time-Voice-Cloning"></a>
 
 <a href="https://github.com/AIGC-Audio/AudioGPT" ><img src="https://opengraph.githubassets.com/727/AIGC-Audio/AudioGPT" ></a>
+
+[Back to top ⬆](#AWESOME-ai-tools)
+
+## Video generation
+
+<a href="https://github.com/Rudrabha/Wav2Lip" ><img src="https://opengraph.githubassets.com/R4ND0MSTR1NG/Rudrabha/Wav2Lip" ></a>
 
 
 [Back to top ⬆](#AWESOME-ai-tools)
