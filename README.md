@@ -74,6 +74,7 @@ A list of AWESOME AI tools on Github
 
 <a href="https://github.com/Arize-ai/phoenix"><img src="https://opengraph.githubassets.com/727/Arize-ai/phoenix"></a>
 
+<a href="https://github.com/mintlify/writer" ><img src="https://opengraph.githubassets.com/R4ND0MSTR1NG/mintlify/writer" ></a>
 
 [Back to top ⬆](#AWESOME-ai-tools)
 
