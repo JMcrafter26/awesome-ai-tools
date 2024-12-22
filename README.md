@@ -107,6 +107,9 @@ If you know any useful ai tools on github (that are not listed here) and you wan
 
 # Stats
 
+![Stargazers](https://api.jm26.net/repo-rooster/stars/JMcrafter26/awesome-ai-tools/dark-notext)
+Latest stargazers
+
 <a href="https://github.com/JMcrafter26/awesome-ai-tools/stargazers" target="_blank"><img src="https://api.jm26.net/badge/beta?url=/github/stars/jmcrafter26/awesome-ai-tools&color=FFDB2D&label=Stars" height="20px" alt="Stars " style="display: inline-block; vertical-align: middle;"></a>
 <a href="https://github.com/JMcrafter26/awesome-ai-tools/graphs/contributors" target="_blank"><img src="https://api.jm26.net/badge/beta?url=/github/contributors/jmcrafter26/awesome-ai-tools&color=blue&format=cap" height="20px" style="display: inline-block; vertical-align: middle;"></a>
 <img src="https://api.jm26.net/badge/beta.php?url=https://api.countapi.xyz/hit/jmcrafter26/ai-tools-list.json&label=Repo%20visits&color=green" height="20px" alt="Get these COOL BADGES" style="display: inline-block; vertical-align: middle;">
