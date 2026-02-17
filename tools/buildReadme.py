@@ -115,13 +115,18 @@ def getDetails(links):
 def saveDetails(details):
     print("Saving details to repos_raw.json")
     with open('repos_raw.json', 'w', encoding='utf-8') as file:
-        json.dump(details, file, indent=4)
+        json.dump(details, f, indent=4)
     
-    # clean_detailsJson
-    with open('repos.json', 'r') as file:
-        clean_detailsJson = json.load(file)
-
+    # Load existing clean details from repos.json
+    existing_clean = {}
+    try:
+        with open('repos.json', 'r', encoding='utf-8') as file:
+            existing_data = json.load(file)
+            existing_clean = {repo['full_name']: repo for repo in existing_data}
+    except FileNotFoundError:
+        pass
     
+    # Create clean details for new/updated repos
     clean_details = []
     for detail in details:
         clean_detail = {
@@ -137,186 +142,127 @@ def saveDetails(details):
             'language': detail['language'],
             'license': detail['license']['spdx_id'] if detail['license'] else None,
             'topics': detail['topics'],
-            # get categories from the clean_detailsJson, else set it to None
-            'category': clean_detailsJson[detail['full_name']]['category'] if detail['full_name'] in clean_detailsJson else None,
-            'sub_category': clean_detailsJson[detail['full_name']]['sub_category'] if detail['full_name'] in clean_detailsJson else None,
-            # get added_at from the clean_detailsJson, else set it to Current date (in human readable format - utc)
-            'added_at': clean_detailsJson[detail['full_name']]['added_at'] if detail['full_name'] in clean_detailsJson else time.strftime('%Y-%m-%d %H:%M:%S', time.gmtime()),
+            'category': existing_clean[detail['full_name']]['category'] if detail['full_name'] in existing_clean else None,
+            'sub_category': existing_clean[detail['full_name']]['sub_category'] if detail['full_name'] in existing_clean else None,
+            'added_at': existing_clean[detail['full_name']]['added_at'] if detail['full_name'] in existing_clean else time.strftime('%Y-%m-%d %H:%M:%S', time.gmtime()),
         }
-        clean_details.append(clean_detail)
+        existing_clean[detail['full_name']] = clean_detail
+    
+    # Write all repos (existing + new) back to repos.json
+    all_repos = list(existing_clean.values())
     with open('repos.json', 'w', encoding='utf-8') as file:
-        json.dump(clean_details, file, indent=4)
-    print("Details saved")
+        json.dump(all_repos, file, indent=4)
+    print(f"Details saved - Total repos in repos.json: {len(all_repos)}")
 
 # Generate the README.md file
 def generateReadme(details):
     print("Sorting the details")
-    # group the details by simmilar topics, only group if at least two repos have the same topic
-    topics = {}
-    # allowed_topics = [
-    #     'speech',
-    #     'music',
-    #     'image',
-    #     'video',
-    #     'text-to-speech',
-    #     'productivity',
-    #     'agent',
-    #     'tts',
-    # ]
-
-    # ignored_topics = [
-    #     'ai',
-    #     'machine-learning',
-    #     'deep-learning',
-    #     'python',
-    #     'neural-network',
-    #     'tensorflow',
-    #     'keras',
-    #     'pytorch',
-    #     'nlp',
-    #     'natural-language-processing',
-    #     'gpt-3',
-    #     'gpt-4',
-    #     'openai',
-    #     'transformer',
-    #     'transformers',
-    #     'chatbot',
-    #     'chatgpt',
-    #     'chat',
-    #     'chatbot',
-    #     'chatbots',
-    #     'ai-chatbot',
-    #     'ai-chat',
-    #     'artificial-intelligence',
-    #     'language-model',
-    #     'large-language-model',
-    #     'llm',
-    #     'ollama',
-    #     'gpt',
-    #     'minicpm',
-    #     'minicpm-v',
-    #     'html',
-    #     'llama',
-    #     'large-language-models',
-    #     'llama2',
-    #     'llama-2',
-    #     'llava',
-    #     'llama3',
-    #     'chatgpt-4',
-    #     'machine-learning-compilation',
-    #     'react',
-    # ]
-    # for detail in details:
-    #     for topic in detail['topics']:
-    #         # if topic not in allowed_topics:
-    #             # continue
-    #         if topic in ignored_topics:
-    #             continue
-    #         if topic not in topics:
-    #             topics[topic] = []
-    #         topics[topic].append(detail)
-
-    main_topics = {
-        'speech': ['speech', 'tts', 'text-to-speech', 'voice', 'voice-cloning', 'speech-synthesis'],
-        'music': ['music', 'audio'],
-        'image': ['image', 'vision', 'super-resolution', 'image-processing'],
-        'face': ['face', 'facial-recognition', 'face-recognition', 'face-detection', 'deep-fake', 'face-swap'],
-        'video': ['video', 'media'],
-        'text-to-speech': ['text-to-speech'],
-        'productivity': ['productivity'],
-        'agent': ['agent'],
+    
+    # Define categories with better organization
+    category_mapping = {
+        'Text Generation & LLMs': [
+            'gpt', 'llm', 'language-model', 'text-generation', 'chatbot', 'chatgpt', 'llama',
+            'autonomous-agents', 'agent', 'rag', 'embeddings'
+        ],
+        'Voice & Speech': [
+            'speech', 'tts', 'text-to-speech', 'voice', 'voice-cloning', 'speech-synthesis',
+            'audio-generation', 'voice-clone'
+        ],
+        'Music & Audio': [
+            'music', 'audio', 'sound'
+        ],
+        'Image Generation': [
+            'image-generation', 'stable-diffusion', 'diffusion', 'text-to-image'
+        ],
+        'Image Enhancement': [
+            'image-restoration', 'super-resolution', 'image-processing', 'face-restoration'
+        ],
+        'Face & Video': [
+            'face', 'facial-recognition', 'face-recognition', 'face-detection', 
+            'deep-fake', 'face-swap', 'face-animation', 'lip-sync', 'video-generation',
+            'video', 'video-editing', 'video-animation', 'image-animation'
+        ],
+        'Development Tools': [
+            'productivity', 'developer-tools', 'code', 'api', 'framework'
+        ],
+        'Observability & Monitoring': [
+            'observability', 'monitoring', 'ai-observability', 'mlops', 'llmops'
+        ],
     }
     
+    # Categorize repos
+    categorized = {}
+    uncategorized = []
+    
     for detail in details:
-        found = False
-        for topic, subtopics in main_topics.items():
-            for subtopic in subtopics:
-                if subtopic in detail['topics']:
-                    found = True
-                    if topic not in topics:
-                        topics[topic] = []
-                    topics[topic].append(detail)
-                    break
-            if found:
+        detail_topics = [t.lower() for t in detail.get('topics', [])]
+        detail_desc = (detail.get('description', '') or '').lower()
+        
+        found_category = False
+        for category, keywords in category_mapping.items():
+            if any(keyword in detail_topics or keyword in detail_desc for keyword in keywords):
+                if category not in categorized:
+                    categorized[category] = []
+                categorized[category].append(detail)
+                found_category = True
                 break
-        if not found:
-            if 'ai' in detail['topics']:
-                if 'ai' not in topics:
-                    topics['ai'] = []
-                topics['ai'].append(detail)
-            else:
-                if 'other' not in topics:
-                    topics['other'] = []
-                topics['other'].append(detail)
+        
+        if not found_category:
+            uncategorized.append(detail)
+    
+    # Add uncategorized to "Other" if exists
+    if uncategorized:
+        categorized['Other'] = uncategorized
 
-
-
-    # sort the topics by the number of repos in them
-    topics = dict(sorted(topics.items(), key=lambda item: len(item[1]), reverse=True))
-    # remove duplicates
-    for topic, repos in topics.items():
-        topics[topic] = list({repo['full_name']: repo for repo in repos}.values())
-
-    # a repo can only be in one topic, so if a repo is in multiple topics, then remove it from the less popular topic
-    # create a map of repo to topic
-    repo_to_topic = {}
-    for topic, repos in topics.items():
-        for repo in repos:
-            repo_to_topic[repo['full_name']] = topic
-    # remove the repo from the less popular topic
-    for topic, repos in topics.items():
-        for repo in repos:
-            for other_topic, other_repos in topics.items():
-                if other_topic == topic:
-                    continue
-                if repo['full_name'] in [r['full_name'] for r in other_repos]:
-                    other_repos = [r for r in other_repos if r['full_name'] != repo['full_name']]
-                    topics[other_topic] = other_repos
-
-
-    # remove empty topics
-    topics = {topic: repos for topic, repos in topics.items() if len(repos) > 0}
-
-    # if a repo is not in any topic, then add it to the "Other" topic
-    other_repos = []
-    for detail in details:
-        found = False
-        for topic, repos in topics.items():
-            for repo in repos:
-                if detail['full_name'] == repo['full_name']:
-                    found = True
-                    break
-        if not found:
-            other_repos.append(detail)
-    if len(other_repos) > 0:
-        topics['Other'] = other_repos
-
-
-
+    # Remove duplicates within categories
+    for category in categorized:
+        seen = {}
+        for repo in categorized[category]:
+            seen[repo['full_name']] = repo
+        categorized[category] = list(seen.values())
+    
+    # Sort by stars within each category
+    for category in categorized:
+        categorized[category].sort(key=lambda x: x['stargazers_count'], reverse=True)
 
     print("Generating README.md")
-    with open('README-new.md', 'w', encoding='utf-8') as file:
-        file.write(f"""# AWESOME AI Tools
-
-![Banner](https://raw.githubusercontent.com/JMcrafter26/awesome-ai-tools/main/.github/banner.jpg)
-
-A list of AWESOME AI tools on Github
-""")
-        # Table of contents
-        file.write("\n## Table of Contents\n")
-        for topic in topics.keys():
-            file.write(f"- [{topic}](#{topic.lower().replace(' ', '-')}) - {len(topics[topic])} repos\n")
-        file.write("\n")
-        # Topics
-        for topic, repos in topics.items():
-            file.write(f"\n## {topic}\n")
+    with open('README.md', 'w', encoding='utf-8') as file:
+        # Header
+        file.write("# Awesome AI Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)\n\n")
+        file.write("> A curated list of awesome AI tools and repositories on GitHub\n\n")
+        
+        # Add contribution guide
+        file.write("## Contents\n\n")
+        for category in categorized.keys():
+            anchor = category.lower().replace(' ', '-').replace('&', '').replace('  ', '-')
+            file.write(f"- [{category}](#{anchor})\n")
+        file.write("- [Contributing](#contributing)\n\n")
+        
+        # Categories with repos
+        for category, repos in categorized.items():
+            anchor = category.lower().replace(' ', '-').replace('&', '').replace('  ', '-')
+            file.write(f"## {category}\n\n")
+            
             for repo in repos:
-                file.write(f"\n### [{repo['name']}]({repo['html_url']})\n")
-                file.write(f"{repo['description']}\n\n")
-                file.write(f"Stars: {repo['stargazers_count']} | Forks: {repo['forks_count']} | Issues: {repo['open_issues_count']}\n")
-                file.write(f"Language: {repo['language']} | License: {repo['license']['name'] if repo['license'] else 'None'}\n")
-                file.write(f"Topics: {', '.join(repo['topics'])}\n")
-                file.write(f"\n")
+                name = repo['name']
+                url = repo['html_url']
+                desc = repo.get('description', 'No description provided.')
+                stars = repo['stargazers_count']
+                
+                # Format with bold name and description (AWESOME list style)
+                file.write(f"- **[{name}]({url})** - {desc} ![Stars](https://img.shields.io/github/stars/{repo['full_name']}?style=flat-square)\n")
+            
+            file.write("\n")
+        
+        # Footer
+        file.write("## Contributing\n\n")
+        file.write("Contributions are welcome! Please feel free to submit a Pull Request.\n\n")
+        file.write("To add a new tool:\n")
+        file.write("1. Add the GitHub URL to `urls.txt`\n")
+        file.write("2. Run `python tools/buildReadme.py`\n")
+        file.write("3. Submit a PR with your changes\n\n")
+        file.write("---\n\n")
+        file.write("Made with ❤️ by [JMcrafter26](https://github.com/JMcrafter26)\n")
 
     print("README.md generated")
 
@@ -325,6 +271,21 @@ def main():
     print("Starting script")
     links = getLinks()
     details = getDetails(links)
+    
+    # Also load from repos.json to include manually added repos
+    print("Loading existing repos from repos.json")
+    with open('repos.json', 'r', encoding='utf-8') as file:
+        existing_repos = json.load(file)
+    
+    # Merge details with existing repos (prioritize existing if duplicate)
+    details_map = {repo['full_name']: repo for repo in details}
+    for repo in existing_repos:
+        if repo['full_name'] not in details_map:
+            details_map[repo['full_name']] = repo
+    
+    details = list(details_map.values())
+    print(f"Total repos to process: {len(details)}")
+    
     generateReadme(details)
     print("Script finished")
 

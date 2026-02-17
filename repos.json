@@ -1205,26 +1205,6 @@
         "added_at": "2024-12-22 00:23:47"
     },
     {
-        "repo": "comfyanonymous/ComfyUI",
-        "full_name": "comfyanonymous/ComfyUI",
-        "name": "ComfyUI",
-        "owner": "comfyanonymous",
-        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-        "html_url": "https://github.com/comfyanonymous/ComfyUI",
-        "stargazers_count": 60766,
-        "forks_count": 6470,
-        "open_issues_count": 1878,
-        "language": "Python",
-        "license": "GPL-3.0",
-        "topics": [
-            "pytorch",
-            "stable-diffusion"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-    },
-    {
         "repo": "iyaja/llama-fs",
         "full_name": "iyaja/llama-fs",
         "name": "llama-fs",
@@ -1812,5 +1792,305 @@
         "category": null,
         "sub_category": null,
         "added_at": "2024-12-22 00:23:47"
+    },
+    {
+        "repo": "deepseek-ai/DeepSeek-R1",
+        "full_name": "deepseek-ai/DeepSeek-R1",
+        "name": "DeepSeek-R1",
+        "owner": "deepseek-ai",
+        "description": "Advanced reasoning model from DeepSeek AI",
+        "html_url": "https://github.com/deepseek-ai/DeepSeek-R1",
+        "stargazers_count": 91848,
+        "forks_count": 11773,
+        "open_issues_count": 0,
+        "language": "Python",
+        "license": null,
+        "topics": [
+            "ai",
+            "llm",
+            "reasoning"
+        ],
+        "category": null,
+        "sub_category": null,
+        "added_at": "2026-02-17 23:14:06"
+    },
+    {
+        "repo": "deepseek-ai/DeepSeek-V3",
+        "full_name": "deepseek-ai/DeepSeek-V3",
+        "name": "DeepSeek-V3",
+        "owner": "deepseek-ai",
+        "description": "Next generation language model from DeepSeek AI",
+        "html_url": "https://github.com/deepseek-ai/DeepSeek-V3",
+        "stargazers_count": 101602,
+        "forks_count": 16516,
+        "open_issues_count": 0,
+        "language": "Python",
+        "license": null,
+        "topics": [
+            "ai",
+            "llm",
+            "deep-learning"
+        ],
+        "category": null,
+        "sub_category": null,
+        "added_at": "2026-02-17 23:14:06"
+    },
+    {
+        "repo": "deepseek-ai/Janus",
+        "full_name": "deepseek-ai/Janus",
+        "name": "Janus",
+        "owner": "deepseek-ai",
+        "description": "Janus-Series: Unified Multimodal Understanding and Generation Models",
+        "html_url": "https://github.com/deepseek-ai/Janus",
+        "stargazers_count": 17705,
+        "forks_count": 2236,
+        "open_issues_count": 0,
+        "language": "Python",
+        "license": null,
+        "topics": [
+            "multimodal",
+            "image-generation",
+            "ai"
+        ],
+        "category": null,
+        "sub_category": null,
+        "added_at": "2026-02-17 23:14:06"
+    },
+    {
+        "repo": "langgenius/dify",
+        "full_name": "langgenius/dify",
+        "name": "dify",
+        "owner": "langgenius",
+        "description": "Production-ready platform for agentic workflow development",
+        "html_url": "https://github.com/langgenius/dify",
+        "stargazers_count": 129738,
+        "forks_count": 20190,
+        "open_issues_count": 0,
+        "language": "TypeScript",
+        "license": "Apache-2.0",
+        "topics": [
+            "agent",
+            "workflow",
+            "ai",
+            "llm"
+        ],
+        "category": null,
+        "sub_category": null,
+        "added_at": "2026-02-17 23:14:06"
+    },
+    {
+        "repo": "hacksider/Deep-Live-Cam",
+        "full_name": "hacksider/Deep-Live-Cam",
+        "name": "Deep-Live-Cam",
+        "owner": "hacksider",
+        "description": "Real time face swap and one-click video deepfake with only a single image",
+        "html_url": "https://github.com/hacksider/Deep-Live-Cam",
+        "stargazers_count": 79529,
+        "forks_count": 11592,
+        "open_issues_count": 0,
+        "language": "Python",
+        "license": null,
+        "topics": [
+            "face-swap",
+            "deepfake",
+            "video"
+        ],
+        "category": null,
+        "sub_category": null,
+        "added_at": "2026-02-17 23:14:06"
+    },
+    {
+        "repo": "openclaw/openclaw",
+        "full_name": "openclaw/openclaw",
+        "name": "openclaw",
+        "owner": "openclaw",
+        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
+        "html_url": "https://github.com/openclaw/openclaw",
+        "stargazers_count": 205157,
+        "forks_count": 37358,
+        "open_issues_count": 0,
+        "language": "TypeScript",
+        "license": null,
+        "topics": [
+            "ai",
+            "agent",
+            "assistant"
+        ],
+        "category": null,
+        "sub_category": null,
+        "added_at": "2026-02-17 23:14:06"
+    },
+    {
+        "repo": "block/goose",
+        "full_name": "block/goose",
+        "name": "goose",
+        "owner": "block",
+        "description": "An open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+        "html_url": "https://github.com/block/goose",
+        "stargazers_count": 30579,
+        "forks_count": 2765,
+        "open_issues_count": 0,
+        "language": "Rust",
+        "license": "Apache-2.0",
+        "topics": [
+            "agent",
+            "ai",
+            "code",
+            "developer-tools"
+        ],
+        "category": null,
+        "sub_category": null,
+        "added_at": "2026-02-17 23:14:06"
+    },
+    {
+        "repo": "Comfy-Org/ComfyUI",
+        "full_name": "Comfy-Org/ComfyUI",
+        "name": "ComfyUI",
+        "owner": "Comfy-Org",
+        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface",
+        "html_url": "https://github.com/Comfy-Org/ComfyUI",
+        "stargazers_count": 103422,
+        "forks_count": 11788,
+        "open_issues_count": 0,
+        "language": "Python",
+        "license": "GPL-3.0",
+        "topics": [
+            "stable-diffusion",
+            "image-generation",
+            "diffusion"
+        ],
+        "category": null,
+        "sub_category": null,
+        "added_at": "2026-02-17 23:14:06"
+    },
+    {
+        "repo": "FunAudioLLM/CosyVoice",
+        "full_name": "FunAudioLLM/CosyVoice",
+        "name": "CosyVoice",
+        "owner": "FunAudioLLM",
+        "description": "Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability",
+        "html_url": "https://github.com/FunAudioLLM/CosyVoice",
+        "stargazers_count": 19623,
+        "forks_count": 2213,
+        "open_issues_count": 0,
+        "language": "Python",
+        "license": null,
+        "topics": [
+            "tts",
+            "text-to-speech",
+            "voice",
+            "speech"
+        ],
+        "category": null,
+        "sub_category": null,
+        "added_at": "2026-02-17 23:14:06"
+    },
+    {
+        "repo": "stanford-oval/storm",
+        "full_name": "stanford-oval/storm",
+        "name": "storm",
+        "owner": "stanford-oval",
+        "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations",
+        "html_url": "https://github.com/stanford-oval/storm",
+        "stargazers_count": 27906,
+        "forks_count": 2534,
+        "open_issues_count": 0,
+        "language": "Python",
+        "license": null,
+        "topics": [
+            "agent",
+            "research",
+            "ai",
+            "llm"
+        ],
+        "category": null,
+        "sub_category": null,
+        "added_at": "2026-02-17 23:14:06"
+    },
+    {
+        "repo": "ItzCrazyKns/Perplexica",
+        "full_name": "ItzCrazyKns/Perplexica",
+        "name": "Perplexica",
+        "owner": "ItzCrazyKns",
+        "description": "Perplexica is an AI-powered answering engine",
+        "html_url": "https://github.com/ItzCrazyKns/Perplexica",
+        "stargazers_count": 28957,
+        "forks_count": 3070,
+        "open_issues_count": 0,
+        "language": "TypeScript",
+        "license": null,
+        "topics": [
+            "ai",
+            "search",
+            "llm"
+        ],
+        "category": null,
+        "sub_category": null,
+        "added_at": "2026-02-17 23:14:06"
+    },
+    {
+        "repo": "OpenBMB/MiniCPM-o",
+        "full_name": "OpenBMB/MiniCPM-o",
+        "name": "MiniCPM-o",
+        "owner": "OpenBMB",
+        "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
+        "html_url": "https://github.com/OpenBMB/MiniCPM-o",
+        "stargazers_count": 23832,
+        "forks_count": 1833,
+        "open_issues_count": 0,
+        "language": "Python",
+        "license": "Apache-2.0",
+        "topics": [
+            "multimodal",
+            "llm",
+            "vision",
+            "speech"
+        ],
+        "category": null,
+        "sub_category": null,
+        "added_at": "2026-02-17 23:14:06"
+    },
+    {
+        "repo": "LostRuins/koboldcpp",
+        "full_name": "LostRuins/koboldcpp",
+        "name": "koboldcpp",
+        "owner": "LostRuins",
+        "description": "Run GGUF models easily with a KoboldAI UI. One File. Zero Install",
+        "html_url": "https://github.com/LostRuins/koboldcpp",
+        "stargazers_count": 9501,
+        "forks_count": 615,
+        "open_issues_count": 0,
+        "language": "C++",
+        "license": null,
+        "topics": [
+            "llm",
+            "gguf",
+            "ai"
+        ],
+        "category": null,
+        "sub_category": null,
+        "added_at": "2026-02-17 23:14:06"
+    },
+    {
+        "repo": "QwenLM/Qwen2-VL",
+        "full_name": "QwenLM/Qwen2-VL",
+        "name": "Qwen2-VL",
+        "owner": "QwenLM",
+        "description": "Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud",
+        "html_url": "https://github.com/QwenLM/Qwen2-VL",
+        "stargazers_count": 18311,
+        "forks_count": 1597,
+        "open_issues_count": 0,
+        "language": "Python",
+        "license": "Apache-2.0",
+        "topics": [
+            "multimodal",
+            "llm",
+            "vision",
+            "qwen"
+        ],
+        "category": null,
+        "sub_category": null,
+        "added_at": "2026-02-17 23:14:06"
     }
 ]
