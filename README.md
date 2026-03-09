@@ -192,6 +192,7 @@ _These projects haven't been updated in over 2 years and may be unmaintained or 
 - **[AudioGPT](https://github.com/AIGC-Audio/AudioGPT)** - Understanding and Generating Speech, Music, Sound, and Talking Head. ![Stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=flat-square) _(Last updated: May 2023)_
 - **[stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)** - Code and documentation to train Stanford's Alpaca models. ![Stars](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca?style=flat-square) _(Last updated: May 2023)_
 - **[Doctor-Dignity](https://github.com/llSourcell/Doctor-Dignity)** - LLM that can pass the US Medical Licensing Exam. Works offline. ![Stars](https://img.shields.io/github/stars/llSourcell/Doctor-Dignity?style=flat-square) _(Last updated: Sep 2023)_
+- **[BGPT MCP](https://github.com/connerlambden/bgpt-mcp)** - Hosted MCP server for searching scientific papers with full-text experimental data. ![Stars](https://img.shields.io/github/stars/connerlambden/bgpt-mcp?style=flat-square)
 
 ## Contributing
 
