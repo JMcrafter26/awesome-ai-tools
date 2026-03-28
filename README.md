@@ -204,6 +204,10 @@ To add a new tool:
 3. Ensure the description is concise and accurate
 4. Submit a PR with your changes
 
+> Requirements for new tools: The tool needs to be free and have a valid GitHub repo, with the actual source code.
+>
+> Suggestions with Pseudo repos will be discarded
+
 For major changes or new categories, please open an issue first to discuss.
 
 ---
