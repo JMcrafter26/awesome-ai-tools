@@ -180,6 +180,7 @@ Domain-specific and experimental AI applications.
 - **[llama-fs](https://github.com/iyaja/llama-fs)** - A self-organizing file system with llama 3. ![Stars](https://img.shields.io/github/stars/iyaja/llama-fs?style=flat-square)
 - **[ai-town](https://github.com/a16z-infra/ai-town)** - Virtual town where AI characters live, chat and socialize. ![Stars](https://img.shields.io/github/stars/a16z-infra/ai-town?style=flat-square)
 - **[Marp-AI](https://github.com/JMcrafter26/Marp-AI)** - Generate presentations using Ollama AI and Marp. ![Stars](https://img.shields.io/github/stars/JMcrafter26/Marp-AI?style=flat-square)
+- **[LocalePack](https://github.com/seyfer/localepack.app)** - AI-powered locale file translator for browser extensions (messages.json → _locales), Next.js, i18next, and vue-i18n. 52 languages, placeholders preserved. ![Stars](https://img.shields.io/github/stars/seyfer/localepack.app?style=flat-square)
 
 ## Archived Projects
 
