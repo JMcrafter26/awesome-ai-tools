@@ -143,6 +143,7 @@ AI-powered coding tools and assistants.
 - **[cofounder](https://github.com/raidendotai/cofounder)** - AI-generated apps, full stack + generative UI. ![Stars](https://img.shields.io/github/stars/raidendotai/cofounder?style=flat-square)
 - **[aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B)** - Official repository of aiXcoder-7B Code Large Language Model. ![Stars](https://img.shields.io/github/stars/aixcoder-plugin/aiXcoder-7B?style=flat-square)
 - **[writer](https://github.com/mintlify/writer)** - AI powered documentation writer. ![Stars](https://img.shields.io/github/stars/mintlify/writer?style=flat-square)
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - Browser-side AI coding toolbar for live web app edits, context capture, and approved diffs. ![Stars](https://img.shields.io/github/stars/Kalmuraee/OpenMagic?style=flat-square)
 
 ## Computer Vision
 
