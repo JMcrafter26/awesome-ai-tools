@@ -5,6 +5,7 @@
 ## Contents
 
 - [Awesome AI Tools ](#awesome-ai-tools-)
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
   - [Contents](#contents)
   - [Large Language Models](#large-language-models)
   - [AI Agents \& Autonomous Systems](#ai-agents--autonomous-systems)
