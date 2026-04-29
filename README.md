@@ -125,6 +125,8 @@ Text-to-image generation and diffusion models.
 
 Image upscaling, restoration, and enhancement.
 
+- **[igly.ai](https://igly.ai)** - AI-powered image editing platform: background removal, inpainting, image upscaling, and generative fill. [Demo video](https://www.youtube.com/watch?v=HB2E1WZ12is)
+
 - **[GFPGAN](https://github.com/TencentARC/GFPGAN)** - Practical algorithms for real-world face restoration. ![Stars](https://img.shields.io/github/stars/TencentARC/GFPGAN?style=flat-square)
 - **[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** - Practical algorithms for general image/video restoration. ![Stars](https://img.shields.io/github/stars/xinntao/Real-ESRGAN?style=flat-square)
 
