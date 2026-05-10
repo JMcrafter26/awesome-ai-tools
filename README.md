@@ -168,6 +168,7 @@ Courses and educational materials for AI/ML.
 Monitoring, debugging, and evaluating AI systems.
 
 - **[phoenix](https://github.com/Arize-ai/phoenix)** - AI Observability & Evaluation. ![Stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=flat-square)
+- **[agenttrace](https://github.com/luoyuctl/agenttrace)** - Local-first TUI observability for AI coding-agent session logs: trace cost, tokens, tool failures, latency, anomalies, health, diffs, and CI gates. ![Stars](https://img.shields.io/github/stars/luoyuctl/agenttrace?style=flat-square)
 
 ## Specialized AI Tools
 
