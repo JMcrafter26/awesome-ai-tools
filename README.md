@@ -207,6 +207,8 @@ To add a new tool:
 > Requirements for new tools: The tool needs to be free and have a valid GitHub repo, with the actual source code.
 >
 > Suggestions with Pseudo repos will be discarded
+>
+> This is NOT a place for advertising your own repos. If the repo has less than 50 stars and is your own repo, it will be seen as advertising
 
 For major changes or new categories, please open an issue first to discuss.
 
