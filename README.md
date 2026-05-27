@@ -128,6 +128,12 @@ Image upscaling, restoration, and enhancement.
 - **[GFPGAN](https://github.com/TencentARC/GFPGAN)** - Practical algorithms for real-world face restoration. ![Stars](https://img.shields.io/github/stars/TencentARC/GFPGAN?style=flat-square)
 - **[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** - Practical algorithms for general image/video restoration. ![Stars](https://img.shields.io/github/stars/xinntao/Real-ESRGAN?style=flat-square)
 
+### Online Services
+
+Commercial web-based image enhancement and restoration services.
+
+- **[PhotoRestore.ai](https://photorestore.ai)** - AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes black-and-white images. Free trial.
+
 ## Music & Audio
 
 Music generation and audio synthesis.
