@@ -181,6 +181,7 @@ Domain-specific and experimental AI applications.
 - **[ai-town](https://github.com/a16z-infra/ai-town)** - Virtual town where AI characters live, chat and socialize. ![Stars](https://img.shields.io/github/stars/a16z-infra/ai-town?style=flat-square)
 - **[Marp-AI](https://github.com/JMcrafter26/Marp-AI)** - Generate presentations using Ollama AI and Marp. ![Stars](https://img.shields.io/github/stars/JMcrafter26/Marp-AI?style=flat-square)
 
+- **[TinyTools](https://github.com/alfredoautomatizaloconia-cloud/tinytools)** - Free browser-based AI utilities: AI background remover (runs locally), AI cost calculator, AI content disclosure generator (EU AI Act compliant), AI robots.txt generator. No signup, no upload. ![Stars](https://img.shields.io/github/stars/alfredoautomatizaloconia-cloud/tinytools?style=flat-square)
 ## Archived Projects
 
 _These projects haven't been updated in over 2 years and may be unmaintained or deprecated._
