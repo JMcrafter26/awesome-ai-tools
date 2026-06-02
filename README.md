@@ -155,6 +155,7 @@ Object detection, tracking, and visual analysis.
 
 Tools and platforms for deploying and managing AI systems.
 
+- **[CoderPlan](https://coderplan.ai/)** - Unified LLM API gateway with OpenAI-compatible endpoint for Claude, GPT, Gemini, and DeepSeek models.
 - **[openpilot](https://github.com/commaai/openpilot)** - Operating system for robotics. Upgrades driver assistance on 275+ supported cars. ![Stars](https://img.shields.io/github/stars/commaai/openpilot?style=flat-square)
 
 ## Learning Resources
