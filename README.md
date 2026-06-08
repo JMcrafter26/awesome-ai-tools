@@ -43,6 +43,7 @@ Run and deploy large language models locally or in the cloud.
 - **[gpt4free](https://github.com/xtekky/gpt4free)** - Various collection of powerful language models. ![Stars](https://img.shields.io/github/stars/xtekky/gpt4free?style=flat-square)
 
 ## AI Agents & Autonomous Systems
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** - Solana-native x402 MCP server for AI agent trust scoring. Free: `score_agent`, `preflight_check`. Paid: signed trust receipt via HTTP 402 + USDC on Solana.
 
 Autonomous agents that can perform tasks, research, and make decisions.
 
