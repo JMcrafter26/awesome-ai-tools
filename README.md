@@ -53,6 +53,7 @@ Autonomous agents that can perform tasks, research, and make decisions.
 - **[gpt-researcher](https://github.com/assafelovic/gpt-researcher)** - Autonomous agent that conducts web research and generates comprehensive reports with citations. ![Stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=flat-square)
 - **[storm](https://github.com/stanford-oval/storm)** - LLM-powered knowledge curation system that researches topics and generates full reports. ![Stars](https://img.shields.io/github/stars/stanford-oval/storm?style=flat-square)
 - **[plandex](https://github.com/plandex-ai/plandex)** - AI driven development in your terminal. Designed for large, real-world tasks. ![Stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=flat-square)
+- **[NotFair](https://github.com/nowork-studio/NotFair)** - Open-source Claude Code agent skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. ![Stars](https://img.shields.io/github/stars/nowork-studio/NotFair?style=flat-square)
 
 ## AI Assistants & Chatbots
 
