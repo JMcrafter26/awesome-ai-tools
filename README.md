@@ -111,6 +111,7 @@ Text-to-video and image-to-video generation.
 
 - **[Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)** - Open source reproduction of Sora (OpenAI T2V model). ![Stars](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan?style=flat-square)
 - **[LTX-Video](https://github.com/Lightricks/LTX-Video)** - Official repository for LTX-Video. ![Stars](https://img.shields.io/github/stars/Lightricks/LTX-Video?style=flat-square)
+- **[ImagineClip](https://imagineclip.com)** - AI video generator for social clips, avatar videos, and stylized scenes.
 
 ## Image Generation
 
