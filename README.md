@@ -47,7 +47,7 @@ Run and deploy large language models locally or in the cloud.
 Autonomous agents that can perform tasks, research, and make decisions.
 
 - **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** - Autonomous AI for everyone. Chain together LLM calls to autonomously achieve goals. ![Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=flat-square)
-[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
+- [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - **[openclaw](https://github.com/openclaw/openclaw)** - Your own personal AI assistant. Any OS. Any Platform. 🦞 ![Stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square)
 - **[AgentGPT](https://github.com/reworkd/AgentGPT)** - Assemble, configure, and deploy autonomous AI Agents in your browser. ![Stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=flat-square)
 - **[goose](https://github.com/block/goose)** - Open source AI agent that goes beyond code suggestions - install, execute, edit, and test. ![Stars](https://img.shields.io/github/stars/block/goose?style=flat-square)
