@@ -156,6 +156,7 @@ Object detection, tracking, and visual analysis.
 
 Tools and platforms for deploying and managing AI systems.
 
+- **[DaoXE](https://daoxe.com)** - Multi-model multi-protocol AI API gateway (Chat Completions, Responses, Anthropic Messages). Examples: [DaoXE-AI](https://github.com/seven7763/DaoXE-AI). ![Stars](https://img.shields.io/github/stars/seven7763/DaoXE-AI?style=flat-square)
 - **[openpilot](https://github.com/commaai/openpilot)** - Operating system for robotics. Upgrades driver assistance on 275+ supported cars. ![Stars](https://img.shields.io/github/stars/commaai/openpilot?style=flat-square)
 
 ## Learning Resources
