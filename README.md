@@ -112,6 +112,7 @@ Text-to-video and image-to-video generation.
 
 - **[Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)** - Open source reproduction of Sora (OpenAI T2V model). ![Stars](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan?style=flat-square)
 - **[LTX-Video](https://github.com/Lightricks/LTX-Video)** - Official repository for LTX-Video. ![Stars](https://img.shields.io/github/stars/Lightricks/LTX-Video?style=flat-square)
+- **[YumCut](https://github.com/IgorShadurin/app.yumcut.com)** - Self-hosted AI workflow for scripts, voiceovers, visuals, captions, and finished vertical videos through a web app and API. ![Stars](https://img.shields.io/github/stars/IgorShadurin/app.yumcut.com?style=flat-square)
 
 ## Image Generation
 
