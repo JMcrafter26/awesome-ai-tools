@@ -156,6 +156,7 @@ Object detection, tracking, and visual analysis.
 
 Tools and platforms for deploying and managing AI systems.
 
+- **[markstream-vue](https://github.com/Simon-He95/markstream-vue)** - Streaming Markdown renderer for AI chat interfaces, with Vue, React, Svelte, Angular, and Vue 2 support. ![Stars](https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=flat-square)
 - **[openpilot](https://github.com/commaai/openpilot)** - Operating system for robotics. Upgrades driver assistance on 275+ supported cars. ![Stars](https://img.shields.io/github/stars/commaai/openpilot?style=flat-square)
 
 ## Learning Resources
