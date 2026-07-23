@@ -1,18 +1,18 @@
 {
-  "check_date": "2026-02-18 00:37:14",
+  "check_date": "2026-07-23 20:07:07",
   "threshold_days": 730,
-  "threshold_date": "2024-02-19",
+  "threshold_date": "2024-07-23",
   "summary": {
     "total": 93,
-    "active": 42,
-    "outdated": 7,
-    "errors": 44
+    "active": 77,
+    "outdated": 16,
+    "errors": 0
   },
   "outdated_repos": [
     {
       "repo": "openai/jukebox",
       "last_commit": "2020-11-14",
-      "days_ago": 1921,
+      "days_ago": 2077,
       "data": {
         "repo": "openai/jukebox",
         "full_name": "openai/jukebox",
@@ -42,7 +42,7 @@
     {
       "repo": "CompVis/stable-diffusion",
       "last_commit": "2022-11-16",
-      "days_ago": 1189,
+      "days_ago": 1344,
       "data": {
         "repo": "CompVis/stable-diffusion",
         "full_name": "CompVis/stable-diffusion",
@@ -64,7 +64,7 @@
     {
       "repo": "cocktailpeanut/dalai",
       "last_commit": "2023-03-22",
-      "days_ago": 1063,
+      "days_ago": 1218,
       "data": {
         "repo": "cocktailpeanut/dalai",
         "full_name": "cocktailpeanut/dalai",
@@ -90,7 +90,7 @@
     {
       "repo": "Shreyas-ITB/VoiceGPT",
       "last_commit": "2023-04-10",
-      "days_ago": 1044,
+      "days_ago": 1200,
       "data": {
         "repo": "Shreyas-ITB/VoiceGPT",
         "full_name": "Shreyas-ITB/VoiceGPT",
@@ -112,7 +112,7 @@
     {
       "repo": "AIGC-Audio/AudioGPT",
       "last_commit": "2023-05-05",
-      "days_ago": 1019,
+      "days_ago": 1174,
       "data": {
         "repo": "AIGC-Audio/AudioGPT",
         "full_name": "AIGC-Audio/AudioGPT",
@@ -141,7 +141,7 @@
     {
       "repo": "tatsu-lab/stanford_alpaca",
       "last_commit": "2023-05-30",
-      "days_ago": 994,
+      "days_ago": 1150,
       "data": {
         "repo": "tatsu-lab/stanford_alpaca",
         "full_name": "tatsu-lab/stanford_alpaca",
@@ -167,7 +167,7 @@
     {
       "repo": "llSourcell/Doctor-Dignity",
       "last_commit": "2023-09-21",
-      "days_ago": 880,
+      "days_ago": 1036,
       "data": {
         "repo": "llSourcell/Doctor-Dignity",
         "full_name": "llSourcell/Doctor-Dignity",
@@ -185,304 +185,11 @@
         "sub_category": null,
         "added_at": "2024-12-22 00:23:47"
       }
-    }
-  ],
-  "errors": [
-    {
-      "repo": "OpenBMB/MiniCPM-V",
-      "data": {
-        "repo": "OpenBMB/MiniCPM-V",
-        "full_name": "OpenBMB/MiniCPM-V",
-        "name": "MiniCPM-V",
-        "owner": "OpenBMB",
-        "description": "MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone",
-        "html_url": "https://github.com/OpenBMB/MiniCPM-V",
-        "stargazers_count": 12897,
-        "forks_count": 905,
-        "open_issues_count": 115,
-        "language": "Python",
-        "license": "Apache-2.0",
-        "topics": [
-          "minicpm",
-          "minicpm-v",
-          "multi-modal"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "magenta/magenta-js",
-      "data": {
-        "repo": "magenta/magenta-js",
-        "full_name": "magenta/magenta-js",
-        "name": "magenta-js",
-        "owner": "magenta",
-        "description": "Magenta.js: Music and Art Generation with Machine Learning in the browser",
-        "html_url": "https://github.com/magenta/magenta-js",
-        "stargazers_count": 2014,
-        "forks_count": 317,
-        "open_issues_count": 111,
-        "language": "TypeScript",
-        "license": "Apache-2.0",
-        "topics": [],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "JMcrafter26/Marp-AI",
-      "data": {
-        "repo": "JMcrafter26/Marp-AI",
-        "full_name": "JMcrafter26/Marp-AI",
-        "name": "Marp-AI",
-        "owner": "JMcrafter26",
-        "description": "Marp AI - Generate presentations using Ollama AI and Marp",
-        "html_url": "https://github.com/JMcrafter26/Marp-AI",
-        "stargazers_count": 1,
-        "forks_count": 0,
-        "open_issues_count": 0,
-        "language": "Python",
-        "license": "MIT",
-        "topics": [
-          "ai",
-          "automation",
-          "ollama",
-          "presentation"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "lllyasviel/Omost",
-      "data": {
-        "repo": "lllyasviel/Omost",
-        "full_name": "lllyasviel/Omost",
-        "name": "Omost",
-        "owner": "lllyasviel",
-        "description": "Your image is almost there!",
-        "html_url": "https://github.com/lllyasviel/Omost",
-        "stargazers_count": 7407,
-        "forks_count": 425,
-        "open_issues_count": 86,
-        "language": "Python",
-        "license": "Apache-2.0",
-        "topics": [],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "iyaja/llama-fs",
-      "data": {
-        "repo": "iyaja/llama-fs",
-        "full_name": "iyaja/llama-fs",
-        "name": "llama-fs",
-        "owner": "iyaja",
-        "description": "A self-organizing file system with llama 3",
-        "html_url": "https://github.com/iyaja/llama-fs",
-        "stargazers_count": 5030,
-        "forks_count": 316,
-        "open_issues_count": 48,
-        "language": "Jupyter Notebook",
-        "license": "MIT",
-        "topics": [],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "CorentinJ/Real-Time-Voice-Cloning",
-      "data": {
-        "repo": "CorentinJ/Real-Time-Voice-Cloning",
-        "full_name": "CorentinJ/Real-Time-Voice-Cloning",
-        "name": "Real-Time-Voice-Cloning",
-        "owner": "CorentinJ",
-        "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
-        "html_url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
-        "stargazers_count": 53024,
-        "forks_count": 8825,
-        "open_issues_count": 213,
-        "language": "Python",
-        "license": "NOASSERTION",
-        "topics": [
-          "deep-learning",
-          "python",
-          "pytorch",
-          "tensorflow",
-          "tts",
-          "voice-cloning"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "TencentARC/GFPGAN",
-      "data": {
-        "repo": "TencentARC/GFPGAN",
-        "full_name": "TencentARC/GFPGAN",
-        "name": "GFPGAN",
-        "owner": "TencentARC",
-        "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
-        "html_url": "https://github.com/TencentARC/GFPGAN",
-        "stargazers_count": 36051,
-        "forks_count": 5971,
-        "open_issues_count": 375,
-        "language": "Python",
-        "license": "NOASSERTION",
-        "topics": [
-          "deep-learning",
-          "face-restoration",
-          "gan",
-          "gfpgan",
-          "image-restoration",
-          "pytorch",
-          "super-resolution"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "zylon-ai/private-gpt",
-      "data": {
-        "repo": "zylon-ai/private-gpt",
-        "full_name": "zylon-ai/private-gpt",
-        "name": "private-gpt",
-        "owner": "zylon-ai",
-        "description": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
-        "html_url": "https://github.com/zylon-ai/private-gpt",
-        "stargazers_count": 54497,
-        "forks_count": 7320,
-        "open_issues_count": 254,
-        "language": "Python",
-        "license": "Apache-2.0",
-        "topics": [],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "danielmiessler/fabric",
-      "data": {
-        "repo": "danielmiessler/fabric",
-        "full_name": "danielmiessler/fabric",
-        "name": "fabric",
-        "owner": "danielmiessler",
-        "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
-        "html_url": "https://github.com/danielmiessler/fabric",
-        "stargazers_count": 26098,
-        "forks_count": 2772,
-        "open_issues_count": 151,
-        "language": "Go",
-        "license": "MIT",
-        "topics": [
-          "ai",
-          "augmentation",
-          "flourishing",
-          "life",
-          "work"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "reworkd/AgentGPT",
-      "data": {
-        "repo": "reworkd/AgentGPT",
-        "full_name": "reworkd/AgentGPT",
-        "name": "AgentGPT",
-        "owner": "reworkd",
-        "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
-        "html_url": "https://github.com/reworkd/AgentGPT",
-        "stargazers_count": 32141,
-        "forks_count": 9272,
-        "open_issues_count": 203,
-        "language": "TypeScript",
-        "license": "GPL-3.0",
-        "topics": [
-          "agent",
-          "agentgpt",
-          "agi",
-          "autogpt",
-          "baby-agi",
-          "gpt",
-          "langchain",
-          "next",
-          "openai",
-          "t3",
-          "t3-stack"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "fishaudio/fish-speech",
-      "data": {
-        "repo": "fishaudio/fish-speech",
-        "full_name": "fishaudio/fish-speech",
-        "name": "fish-speech",
-        "owner": "fishaudio",
-        "description": "SOTA Open Source TTS",
-        "html_url": "https://github.com/fishaudio/fish-speech",
-        "stargazers_count": 17462,
-        "forks_count": 1307,
-        "open_issues_count": 53,
-        "language": "Python",
-        "license": "Apache-2.0",
-        "topics": [
-          "llama",
-          "transformer",
-          "tts",
-          "valle",
-          "vits",
-          "vqgan",
-          "vqvae"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "nomic-ai/gpt4all",
-      "data": {
-        "repo": "nomic-ai/gpt4all",
-        "full_name": "nomic-ai/gpt4all",
-        "name": "gpt4all",
-        "owner": "nomic-ai",
-        "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
-        "html_url": "https://github.com/nomic-ai/gpt4all",
-        "stargazers_count": 71266,
-        "forks_count": 7758,
-        "open_issues_count": 681,
-        "language": "C++",
-        "license": "MIT",
-        "topics": [
-          "ai-chat",
-          "llm-inference"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
     },
     {
       "repo": "getumbrel/llama-gpt",
+      "last_commit": "2023-10-09",
+      "days_ago": 1018,
       "data": {
         "repo": "getumbrel/llama-gpt",
         "full_name": "getumbrel/llama-gpt",
@@ -519,29 +226,82 @@
       }
     },
     {
-      "repo": "JMcrafter26/browse-for-me",
+      "repo": "magenta/magenta-js",
+      "last_commit": "2024-03-25",
+      "days_ago": 850,
       "data": {
-        "repo": "JMcrafter26/browse-for-me",
-        "full_name": "JMcrafter26/browse-for-me",
-        "name": "browse-for-me",
-        "owner": "JMcrafter26",
-        "description": "This is a very early clone of the Arc Search Browse for Me feature. It is a simple python script that uses Ollama and DuckDuckGo to search for a query and generate a report of the results.",
-        "html_url": "https://github.com/JMcrafter26/browse-for-me",
-        "stargazers_count": 2,
-        "forks_count": 0,
-        "open_issues_count": 0,
-        "language": "HTML",
-        "license": null,
+        "repo": "magenta/magenta-js",
+        "full_name": "magenta/magenta-js",
+        "name": "magenta-js",
+        "owner": "magenta",
+        "description": "Magenta.js: Music and Art Generation with Machine Learning in the browser",
+        "html_url": "https://github.com/magenta/magenta-js",
+        "stargazers_count": 2014,
+        "forks_count": 317,
+        "open_issues_count": 111,
+        "language": "TypeScript",
+        "license": "Apache-2.0",
+        "topics": [],
+        "category": null,
+        "sub_category": null,
+        "added_at": "2024-12-22 00:23:47"
+      }
+    },
+    {
+      "repo": "xinntao/Real-ESRGAN",
+      "last_commit": "2024-04-02",
+      "days_ago": 842,
+      "data": {
+        "repo": "xinntao/Real-ESRGAN",
+        "full_name": "xinntao/Real-ESRGAN",
+        "name": "Real-ESRGAN",
+        "owner": "xinntao",
+        "description": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+        "html_url": "https://github.com/xinntao/Real-ESRGAN",
+        "stargazers_count": 28908,
+        "forks_count": 3620,
+        "open_issues_count": 565,
+        "language": "Python",
+        "license": "BSD-3-Clause",
         "topics": [
-          "ai",
-          "ai-agents",
-          "ai-research",
-          "arc",
-          "arc-search",
-          "browse-for-me",
-          "browser",
-          "jmcrafter26",
-          "ollama"
+          "amine",
+          "denoise",
+          "esrgan",
+          "image-restoration",
+          "jpeg-compression",
+          "pytorch",
+          "real-esrgan",
+          "super-resolution"
+        ],
+        "category": null,
+        "sub_category": null,
+        "added_at": "2024-12-22 00:23:47"
+      }
+    },
+    {
+      "repo": "TencentARC/GFPGAN",
+      "last_commit": "2024-04-02",
+      "days_ago": 842,
+      "data": {
+        "repo": "TencentARC/GFPGAN",
+        "full_name": "TencentARC/GFPGAN",
+        "name": "GFPGAN",
+        "owner": "TencentARC",
+        "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+        "html_url": "https://github.com/TencentARC/GFPGAN",
+        "stargazers_count": 36051,
+        "forks_count": 5971,
+        "open_issues_count": 375,
+        "language": "Python",
+        "license": "NOASSERTION",
+        "topics": [
+          "deep-learning",
+          "face-restoration",
+          "gan",
+          "gfpgan",
+          "image-restoration",
+          "pytorch",
+          "super-resolution"
         ],
         "category": null,
         "sub_category": null,
@@ -550,6 +310,8 @@
     },
     {
       "repo": "suno-ai/bark",
+      "last_commit": "2024-04-05",
+      "days_ago": 839,
       "data": {
         "repo": "suno-ai/bark",
         "full_name": "suno-ai/bark",
@@ -569,110 +331,19 @@
       }
     },
     {
-      "repo": "khoj-ai/khoj",
+      "repo": "nashsu/FreeAskInternet",
+      "last_commit": "2024-04-13",
+      "days_ago": 831,
       "data": {
-        "repo": "khoj-ai/khoj",
-        "full_name": "khoj-ai/khoj",
-        "name": "khoj",
-        "owner": "khoj-ai",
-        "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
-        "html_url": "https://github.com/khoj-ai/khoj",
-        "stargazers_count": 17349,
-        "forks_count": 848,
-        "open_issues_count": 45,
-        "language": "Python",
-        "license": "AGPL-3.0",
-        "topics": [
-          "agent",
-          "ai",
-          "assistant",
-          "chat",
-          "chatgpt",
-          "emacs",
-          "image-generation",
-          "llama3",
-          "llamacpp",
-          "llm",
-          "obsidian",
-          "obsidian-md",
-          "offline-llm",
-          "productivity",
-          "rag",
-          "research",
-          "self-hosted",
-          "semantic-search",
-          "stt",
-          "whatsapp-ai"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "Significant-Gravitas/AutoGPT",
-      "data": {
-        "repo": "Significant-Gravitas/AutoGPT",
-        "full_name": "Significant-Gravitas/AutoGPT",
-        "name": "AutoGPT",
-        "owner": "Significant-Gravitas",
-        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-        "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
-        "stargazers_count": 169344,
-        "forks_count": 44600,
-        "open_issues_count": 165,
-        "language": "Python",
-        "license": "NOASSERTION",
-        "topics": [
-          "ai",
-          "artificial-intelligence",
-          "autonomous-agents",
-          "gpt-4",
-          "openai",
-          "python"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "langflow-ai/langflow",
-      "data": {
-        "repo": "langflow-ai/langflow",
-        "full_name": "langflow-ai/langflow",
-        "name": "langflow",
-        "owner": "langflow-ai",
-        "description": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.",
-        "html_url": "https://github.com/langflow-ai/langflow",
-        "stargazers_count": 40000,
-        "forks_count": 4520,
-        "open_issues_count": 224,
-        "language": "Python",
-        "license": "MIT",
-        "topics": [
-          "chatgpt",
-          "generative-ai",
-          "large-language-models",
-          "react-flow"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "zylon-ai/private-gpt",
-      "data": {
-        "repo": "zylon-ai/private-gpt",
-        "full_name": "zylon-ai/private-gpt",
-        "name": "private-gpt",
-        "owner": "zylon-ai",
-        "description": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
-        "html_url": "https://github.com/zylon-ai/private-gpt",
-        "stargazers_count": 54497,
-        "forks_count": 7320,
-        "open_issues_count": 254,
+        "repo": "nashsu/FreeAskInternet",
+        "full_name": "nashsu/FreeAskInternet",
+        "name": "FreeAskInternet",
+        "owner": "nashsu",
+        "description": "FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use. ",
+        "html_url": "https://github.com/nashsu/FreeAskInternet",
+        "stargazers_count": 8519,
+        "forks_count": 898,
+        "open_issues_count": 63,
         "language": "Python",
         "license": "Apache-2.0",
         "topics": [],
@@ -682,609 +353,90 @@
       }
     },
     {
-      "repo": "Significant-Gravitas/AutoGPT",
+      "repo": "haotian-liu/LLaVA",
+      "last_commit": "2024-05-11",
+      "days_ago": 803,
       "data": {
-        "repo": "Significant-Gravitas/AutoGPT",
-        "full_name": "Significant-Gravitas/AutoGPT",
-        "name": "AutoGPT",
-        "owner": "Significant-Gravitas",
-        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-        "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
-        "stargazers_count": 169344,
-        "forks_count": 44600,
-        "open_issues_count": 165,
+        "repo": "haotian-liu/LLaVA",
+        "full_name": "haotian-liu/LLaVA",
+        "name": "LLaVA",
+        "owner": "haotian-liu",
+        "description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.",
+        "html_url": "https://github.com/haotian-liu/LLaVA",
+        "stargazers_count": 20786,
+        "forks_count": 2292,
+        "open_issues_count": 1059,
         "language": "Python",
-        "license": "NOASSERTION",
+        "license": "Apache-2.0",
         "topics": [
-          "ai",
-          "artificial-intelligence",
-          "autonomous-agents",
-          "gpt-4",
-          "openai",
-          "python"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "Significant-Gravitas/AutoGPT",
-      "data": {
-        "repo": "Significant-Gravitas/AutoGPT",
-        "full_name": "Significant-Gravitas/AutoGPT",
-        "name": "AutoGPT",
-        "owner": "Significant-Gravitas",
-        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-        "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
-        "stargazers_count": 169344,
-        "forks_count": 44600,
-        "open_issues_count": 165,
-        "language": "Python",
-        "license": "NOASSERTION",
-        "topics": [
-          "ai",
-          "artificial-intelligence",
-          "autonomous-agents",
-          "gpt-4",
-          "openai",
-          "python"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "langflow-ai/langflow",
-      "data": {
-        "repo": "langflow-ai/langflow",
-        "full_name": "langflow-ai/langflow",
-        "name": "langflow",
-        "owner": "langflow-ai",
-        "description": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.",
-        "html_url": "https://github.com/langflow-ai/langflow",
-        "stargazers_count": 40000,
-        "forks_count": 4520,
-        "open_issues_count": 224,
-        "language": "Python",
-        "license": "MIT",
-        "topics": [
+          "chatbot",
           "chatgpt",
-          "generative-ai",
-          "large-language-models",
-          "react-flow"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "zylon-ai/private-gpt",
-      "data": {
-        "repo": "zylon-ai/private-gpt",
-        "full_name": "zylon-ai/private-gpt",
-        "name": "private-gpt",
-        "owner": "zylon-ai",
-        "description": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
-        "html_url": "https://github.com/zylon-ai/private-gpt",
-        "stargazers_count": 54497,
-        "forks_count": 7320,
-        "open_issues_count": 254,
-        "language": "Python",
-        "license": "Apache-2.0",
-        "topics": [],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "zylon-ai/private-gpt",
-      "data": {
-        "repo": "zylon-ai/private-gpt",
-        "full_name": "zylon-ai/private-gpt",
-        "name": "private-gpt",
-        "owner": "zylon-ai",
-        "description": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
-        "html_url": "https://github.com/zylon-ai/private-gpt",
-        "stargazers_count": 54497,
-        "forks_count": 7320,
-        "open_issues_count": 254,
-        "language": "Python",
-        "license": "Apache-2.0",
-        "topics": [],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "Significant-Gravitas/AutoGPT",
-      "data": {
-        "repo": "Significant-Gravitas/AutoGPT",
-        "full_name": "Significant-Gravitas/AutoGPT",
-        "name": "AutoGPT",
-        "owner": "Significant-Gravitas",
-        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-        "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
-        "stargazers_count": 169344,
-        "forks_count": 44600,
-        "open_issues_count": 165,
-        "language": "Python",
-        "license": "NOASSERTION",
-        "topics": [
-          "ai",
-          "artificial-intelligence",
-          "autonomous-agents",
+          "foundation-models",
           "gpt-4",
-          "openai",
-          "python"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "langflow-ai/langflow",
-      "data": {
-        "repo": "langflow-ai/langflow",
-        "full_name": "langflow-ai/langflow",
-        "name": "langflow",
-        "owner": "langflow-ai",
-        "description": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.",
-        "html_url": "https://github.com/langflow-ai/langflow",
-        "stargazers_count": 40000,
-        "forks_count": 4520,
-        "open_issues_count": 224,
-        "language": "Python",
-        "license": "MIT",
-        "topics": [
-          "chatgpt",
-          "generative-ai",
-          "large-language-models",
-          "react-flow"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "zylon-ai/private-gpt",
-      "data": {
-        "repo": "zylon-ai/private-gpt",
-        "full_name": "zylon-ai/private-gpt",
-        "name": "private-gpt",
-        "owner": "zylon-ai",
-        "description": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
-        "html_url": "https://github.com/zylon-ai/private-gpt",
-        "stargazers_count": 54497,
-        "forks_count": 7320,
-        "open_issues_count": 254,
-        "language": "Python",
-        "license": "Apache-2.0",
-        "topics": [],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "langflow-ai/langflow",
-      "data": {
-        "repo": "langflow-ai/langflow",
-        "full_name": "langflow-ai/langflow",
-        "name": "langflow",
-        "owner": "langflow-ai",
-        "description": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.",
-        "html_url": "https://github.com/langflow-ai/langflow",
-        "stargazers_count": 40000,
-        "forks_count": 4520,
-        "open_issues_count": 224,
-        "language": "Python",
-        "license": "MIT",
-        "topics": [
-          "chatgpt",
-          "generative-ai",
-          "large-language-models",
-          "react-flow"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "zylon-ai/private-gpt",
-      "data": {
-        "repo": "zylon-ai/private-gpt",
-        "full_name": "zylon-ai/private-gpt",
-        "name": "private-gpt",
-        "owner": "zylon-ai",
-        "description": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
-        "html_url": "https://github.com/zylon-ai/private-gpt",
-        "stargazers_count": 54497,
-        "forks_count": 7320,
-        "open_issues_count": 254,
-        "language": "Python",
-        "license": "Apache-2.0",
-        "topics": [],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "Significant-Gravitas/AutoGPT",
-      "data": {
-        "repo": "Significant-Gravitas/AutoGPT",
-        "full_name": "Significant-Gravitas/AutoGPT",
-        "name": "AutoGPT",
-        "owner": "Significant-Gravitas",
-        "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-        "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
-        "stargazers_count": 169344,
-        "forks_count": 44600,
-        "open_issues_count": 165,
-        "language": "Python",
-        "license": "NOASSERTION",
-        "topics": [
-          "ai",
-          "artificial-intelligence",
-          "autonomous-agents",
-          "gpt-4",
-          "openai",
-          "python"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2024-12-22 00:23:47"
-      }
-    },
-    {
-      "repo": "deepseek-ai/DeepSeek-R1",
-      "data": {
-        "repo": "deepseek-ai/DeepSeek-R1",
-        "full_name": "deepseek-ai/DeepSeek-R1",
-        "name": "DeepSeek-R1",
-        "owner": "deepseek-ai",
-        "description": "Advanced reasoning model from DeepSeek AI",
-        "html_url": "https://github.com/deepseek-ai/DeepSeek-R1",
-        "stargazers_count": 91848,
-        "forks_count": 11773,
-        "open_issues_count": 0,
-        "language": "Python",
-        "license": null,
-        "topics": [
-          "ai",
-          "llm",
-          "reasoning"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2026-02-17 23:14:06"
-      }
-    },
-    {
-      "repo": "deepseek-ai/DeepSeek-V3",
-      "data": {
-        "repo": "deepseek-ai/DeepSeek-V3",
-        "full_name": "deepseek-ai/DeepSeek-V3",
-        "name": "DeepSeek-V3",
-        "owner": "deepseek-ai",
-        "description": "Next generation language model from DeepSeek AI",
-        "html_url": "https://github.com/deepseek-ai/DeepSeek-V3",
-        "stargazers_count": 101602,
-        "forks_count": 16516,
-        "open_issues_count": 0,
-        "language": "Python",
-        "license": null,
-        "topics": [
-          "ai",
-          "llm",
-          "deep-learning"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2026-02-17 23:14:06"
-      }
-    },
-    {
-      "repo": "deepseek-ai/Janus",
-      "data": {
-        "repo": "deepseek-ai/Janus",
-        "full_name": "deepseek-ai/Janus",
-        "name": "Janus",
-        "owner": "deepseek-ai",
-        "description": "Janus-Series: Unified Multimodal Understanding and Generation Models",
-        "html_url": "https://github.com/deepseek-ai/Janus",
-        "stargazers_count": 17705,
-        "forks_count": 2236,
-        "open_issues_count": 0,
-        "language": "Python",
-        "license": null,
-        "topics": [
+          "instruction-tuning",
+          "llama",
+          "llama-2",
+          "llama2",
+          "llava",
+          "multi-modality",
           "multimodal",
-          "image-generation",
-          "ai"
+          "vision-language-model",
+          "visual-language-learning"
         ],
         "category": null,
         "sub_category": null,
-        "added_at": "2026-02-17 23:14:06"
+        "added_at": "2024-12-22 00:23:47"
       }
     },
     {
-      "repo": "langgenius/dify",
+      "repo": "lllyasviel/Omost",
+      "last_commit": "2024-06-03",
+      "days_ago": 780,
       "data": {
-        "repo": "langgenius/dify",
-        "full_name": "langgenius/dify",
-        "name": "dify",
-        "owner": "langgenius",
-        "description": "Production-ready platform for agentic workflow development",
-        "html_url": "https://github.com/langgenius/dify",
-        "stargazers_count": 129738,
-        "forks_count": 20190,
-        "open_issues_count": 0,
-        "language": "TypeScript",
-        "license": "Apache-2.0",
-        "topics": [
-          "agent",
-          "workflow",
-          "ai",
-          "llm"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2026-02-17 23:14:06"
-      }
-    },
-    {
-      "repo": "hacksider/Deep-Live-Cam",
-      "data": {
-        "repo": "hacksider/Deep-Live-Cam",
-        "full_name": "hacksider/Deep-Live-Cam",
-        "name": "Deep-Live-Cam",
-        "owner": "hacksider",
-        "description": "Real time face swap and one-click video deepfake with only a single image",
-        "html_url": "https://github.com/hacksider/Deep-Live-Cam",
-        "stargazers_count": 79529,
-        "forks_count": 11592,
-        "open_issues_count": 0,
+        "repo": "lllyasviel/Omost",
+        "full_name": "lllyasviel/Omost",
+        "name": "Omost",
+        "owner": "lllyasviel",
+        "description": "Your image is almost there!",
+        "html_url": "https://github.com/lllyasviel/Omost",
+        "stargazers_count": 7407,
+        "forks_count": 425,
+        "open_issues_count": 86,
         "language": "Python",
-        "license": null,
-        "topics": [
-          "face-swap",
-          "deepfake",
-          "video"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2026-02-17 23:14:06"
-      }
-    },
-    {
-      "repo": "openclaw/openclaw",
-      "data": {
-        "repo": "openclaw/openclaw",
-        "full_name": "openclaw/openclaw",
-        "name": "openclaw",
-        "owner": "openclaw",
-        "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
-        "html_url": "https://github.com/openclaw/openclaw",
-        "stargazers_count": 205157,
-        "forks_count": 37358,
-        "open_issues_count": 0,
-        "language": "TypeScript",
-        "license": null,
-        "topics": [
-          "ai",
-          "agent",
-          "assistant"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2026-02-17 23:14:06"
-      }
-    },
-    {
-      "repo": "block/goose",
-      "data": {
-        "repo": "block/goose",
-        "full_name": "block/goose",
-        "name": "goose",
-        "owner": "block",
-        "description": "An open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-        "html_url": "https://github.com/block/goose",
-        "stargazers_count": 30579,
-        "forks_count": 2765,
-        "open_issues_count": 0,
-        "language": "Rust",
         "license": "Apache-2.0",
-        "topics": [
-          "agent",
-          "ai",
-          "code",
-          "developer-tools"
-        ],
+        "topics": [],
         "category": null,
         "sub_category": null,
-        "added_at": "2026-02-17 23:14:06"
+        "added_at": "2024-12-22 00:23:47"
       }
     },
     {
-      "repo": "Comfy-Org/ComfyUI",
+      "repo": "ohmplatform/FreedomGPT",
+      "last_commit": "2024-06-13",
+      "days_ago": 770,
       "data": {
-        "repo": "Comfy-Org/ComfyUI",
-        "full_name": "Comfy-Org/ComfyUI",
-        "name": "ComfyUI",
-        "owner": "Comfy-Org",
-        "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface",
-        "html_url": "https://github.com/Comfy-Org/ComfyUI",
-        "stargazers_count": 103422,
-        "forks_count": 11788,
-        "open_issues_count": 0,
-        "language": "Python",
+        "repo": "ohmplatform/FreedomGPT",
+        "full_name": "ohmplatform/FreedomGPT",
+        "name": "FreedomGPT",
+        "owner": "ohmplatform",
+        "description": "This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface",
+        "html_url": "https://github.com/ohmplatform/FreedomGPT",
+        "stargazers_count": 2621,
+        "forks_count": 358,
+        "open_issues_count": 78,
+        "language": "TypeScript",
         "license": "GPL-3.0",
         "topics": [
-          "stable-diffusion",
-          "image-generation",
-          "diffusion"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2026-02-17 23:14:06"
-      }
-    },
-    {
-      "repo": "FunAudioLLM/CosyVoice",
-      "data": {
-        "repo": "FunAudioLLM/CosyVoice",
-        "full_name": "FunAudioLLM/CosyVoice",
-        "name": "CosyVoice",
-        "owner": "FunAudioLLM",
-        "description": "Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability",
-        "html_url": "https://github.com/FunAudioLLM/CosyVoice",
-        "stargazers_count": 19623,
-        "forks_count": 2213,
-        "open_issues_count": 0,
-        "language": "Python",
-        "license": null,
-        "topics": [
-          "tts",
-          "text-to-speech",
-          "voice",
-          "speech"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2026-02-17 23:14:06"
-      }
-    },
-    {
-      "repo": "stanford-oval/storm",
-      "data": {
-        "repo": "stanford-oval/storm",
-        "full_name": "stanford-oval/storm",
-        "name": "storm",
-        "owner": "stanford-oval",
-        "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations",
-        "html_url": "https://github.com/stanford-oval/storm",
-        "stargazers_count": 27906,
-        "forks_count": 2534,
-        "open_issues_count": 0,
-        "language": "Python",
-        "license": null,
-        "topics": [
-          "agent",
-          "research",
-          "ai",
-          "llm"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2026-02-17 23:14:06"
-      }
-    },
-    {
-      "repo": "ItzCrazyKns/Perplexica",
-      "data": {
-        "repo": "ItzCrazyKns/Perplexica",
-        "full_name": "ItzCrazyKns/Perplexica",
-        "name": "Perplexica",
-        "owner": "ItzCrazyKns",
-        "description": "Perplexica is an AI-powered answering engine",
-        "html_url": "https://github.com/ItzCrazyKns/Perplexica",
-        "stargazers_count": 28957,
-        "forks_count": 3070,
-        "open_issues_count": 0,
-        "language": "TypeScript",
-        "license": null,
-        "topics": [
-          "ai",
-          "search",
-          "llm"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2026-02-17 23:14:06"
-      }
-    },
-    {
-      "repo": "OpenBMB/MiniCPM-o",
-      "data": {
-        "repo": "OpenBMB/MiniCPM-o",
-        "full_name": "OpenBMB/MiniCPM-o",
-        "name": "MiniCPM-o",
-        "owner": "OpenBMB",
-        "description": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
-        "html_url": "https://github.com/OpenBMB/MiniCPM-o",
-        "stargazers_count": 23832,
-        "forks_count": 1833,
-        "open_issues_count": 0,
-        "language": "Python",
-        "license": "Apache-2.0",
-        "topics": [
-          "multimodal",
+          "electron",
+          "gpt",
           "llm",
-          "vision",
-          "speech"
+          "react"
         ],
         "category": null,
         "sub_category": null,
-        "added_at": "2026-02-17 23:14:06"
-      }
-    },
-    {
-      "repo": "LostRuins/koboldcpp",
-      "data": {
-        "repo": "LostRuins/koboldcpp",
-        "full_name": "LostRuins/koboldcpp",
-        "name": "koboldcpp",
-        "owner": "LostRuins",
-        "description": "Run GGUF models easily with a KoboldAI UI. One File. Zero Install",
-        "html_url": "https://github.com/LostRuins/koboldcpp",
-        "stargazers_count": 9501,
-        "forks_count": 615,
-        "open_issues_count": 0,
-        "language": "C++",
-        "license": null,
-        "topics": [
-          "llm",
-          "gguf",
-          "ai"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2026-02-17 23:14:06"
-      }
-    },
-    {
-      "repo": "QwenLM/Qwen2-VL",
-      "data": {
-        "repo": "QwenLM/Qwen2-VL",
-        "full_name": "QwenLM/Qwen2-VL",
-        "name": "Qwen2-VL",
-        "owner": "QwenLM",
-        "description": "Qwen2-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud",
-        "html_url": "https://github.com/QwenLM/Qwen2-VL",
-        "stargazers_count": 18311,
-        "forks_count": 1597,
-        "open_issues_count": 0,
-        "language": "Python",
-        "license": "Apache-2.0",
-        "topics": [
-          "multimodal",
-          "llm",
-          "vision",
-          "qwen"
-        ],
-        "category": null,
-        "sub_category": null,
-        "added_at": "2026-02-17 23:14:06"
+        "added_at": "2024-12-22 00:23:47"
       }
     }
-  ]
+  ],
+  "errors": []
 }

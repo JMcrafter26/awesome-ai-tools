@@ -37,8 +37,6 @@ Run and deploy large language models locally or in the cloud.
 - **[llamafile](https://github.com/Mozilla-Ocho/llamafile)** - Distribute and run LLMs with a single file. ![Stars](https://img.shields.io/github/stars/Mozilla-Ocho/llamafile?style=flat-square)
 - **[mlc-llm](https://github.com/mlc-ai/mlc-llm)** - Universal LLM Deployment Engine with ML Compilation. ![Stars](https://img.shields.io/github/stars/mlc-ai/mlc-llm?style=flat-square)
 - **[koboldcpp](https://github.com/LostRuins/koboldcpp)** - Run GGUF models easily with a KoboldAI UI. One File. Zero Install. ![Stars](https://img.shields.io/github/stars/LostRuins/koboldcpp?style=flat-square)
-- **[llama-gpt](https://github.com/getumbrel/llama-gpt)** - A self-hosted, offline, ChatGPT-like chatbot powered by Llama 2. 100% private. ![Stars](https://img.shields.io/github/stars/getumbrel/llama-gpt?style=flat-square)
-- **[FreedomGPT](https://github.com/ohmplatform/FreedomGPT)** - Execute FreedomGPT LLM locally (offline and private) on Mac and Windows. ![Stars](https://img.shields.io/github/stars/ohmplatform/FreedomGPT?style=flat-square)
 - **[gemma.cpp](https://github.com/google/gemma.cpp)** - Lightweight, standalone C++ inference engine for Google's Gemma models. ![Stars](https://img.shields.io/github/stars/google/gemma.cpp?style=flat-square)
 - **[gpt4free](https://github.com/xtekky/gpt4free)** - Various collection of powerful language models. ![Stars](https://img.shields.io/github/stars/xtekky/gpt4free?style=flat-square)
 
@@ -62,13 +60,13 @@ User-friendly chat interfaces and personal AI assistants.
 - **[ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)** - Cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). ![Stars](https://img.shields.io/github/stars/ChatGPTNextWeb/ChatGPT-Next-Web?style=flat-square)
 - **[khoj](https://github.com/khoj-ai/khoj)** - Your AI second brain. Self-hostable. Build custom agents, schedule automations, do deep research. ![Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=flat-square)
 - **[Perplexica](https://github.com/ItzCrazyKns/Perplexica)** - AI-powered answering engine. ![Stars](https://img.shields.io/github/stars/ItzCrazyKns/Perplexica?style=flat-square)
-- **[FreeAskInternet](https://github.com/nashsu/FreeAskInternet)** - Completely free, private and local search aggregator using multi LLMs. ![Stars](https://img.shields.io/github/stars/nashsu/FreeAskInternet?style=flat-square)
 - **[browse-for-me](https://github.com/JMcrafter26/browse-for-me)** - Arc Search Browse for Me clone using Ollama and DuckDuckGo. ![Stars](https://img.shields.io/github/stars/JMcrafter26/browse-for-me?style=flat-square)
 
 ## RAG & Document AI
 
 Retrieval Augmented Generation and document processing systems.
 
+- **[Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)** - A powerful OCR tool for extracting text from images. ![Stars](https://img.shields.io/github/stars/baidu/Unlimited-OCR?style=flat-square)
 - **[private-gpt](https://github.com/zylon-ai/private-gpt)** - Interact with your documents using GPT, 100% privately, no data leaks. ![Stars](https://img.shields.io/github/stars/zylon-ai/private-gpt?style=flat-square)
 - **[quivr](https://github.com/QuivrHQ/quivr)** - Production-ready RAG platform. Any LLM, any vectorstore, any file. ![Stars](https://img.shields.io/github/stars/QuivrHQ/quivr?style=flat-square)
 - **[localGPT](https://github.com/PromtEngineer/localGPT)** - Chat with your documents on your local device. No data leaves your device. ![Stars](https://img.shields.io/github/stars/PromtEngineer/localGPT?style=flat-square)
@@ -120,21 +118,14 @@ Text-to-image generation and diffusion models.
 - **[ComfyUI](https://github.com/Comfy-Org/ComfyUI)** - The most powerful and modular diffusion model GUI with a graph/nodes interface. ![Stars](https://img.shields.io/github/stars/Comfy-Org/ComfyUI?style=flat-square)
 - **[Janus](https://github.com/deepseek-ai/Janus)** - Unified Multimodal Understanding and Generation Models. ![Stars](https://img.shields.io/github/stars/deepseek-ai/Janus?style=flat-square)
 - **[DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio)** - Enjoy the magic of Diffusion models! ![Stars](https://img.shields.io/github/stars/modelscope/DiffSynth-Studio?style=flat-square)
-- **[Omost](https://github.com/lllyasviel/Omost)** - Your image is almost there! ![Stars](https://img.shields.io/github/stars/lllyasviel/Omost?style=flat-square)
 
 ## Image Enhancement
 
 Image upscaling, restoration, and enhancement.
 
-- **[GFPGAN](https://github.com/TencentARC/GFPGAN)** - Practical algorithms for real-world face restoration. ![Stars](https://img.shields.io/github/stars/TencentARC/GFPGAN?style=flat-square)
-- **[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** - Practical algorithms for general image/video restoration. ![Stars](https://img.shields.io/github/stars/xinntao/Real-ESRGAN?style=flat-square)
-
 ## Music & Audio
 
 Music generation and audio synthesis.
-
-- **[bark](https://github.com/suno-ai/bark)** - Text-Prompted Generative Audio Model. ![Stars](https://img.shields.io/github/stars/suno-ai/bark?style=flat-square)
-- **[magenta-js](https://github.com/magenta/magenta-js)** - Music and Art Generation with Machine Learning in the browser. ![Stars](https://img.shields.io/github/stars/magenta/magenta-js?style=flat-square)
 
 ## Code Assistants
 
@@ -176,7 +167,6 @@ Monitoring, debugging, and evaluating AI systems.
 Domain-specific and experimental AI applications.
 
 - **[MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o)** - Gemini 2.5 Flash Level MLLM for Vision, Speech, and Multimodal Live Streaming on phones. ![Stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-o?style=flat-square)
-- **[LLaVA](https://github.com/haotian-liu/LLaVA)** - Visual Instruction Tuning towards GPT-4V level capabilities. ![Stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=flat-square)
 - **[MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V)** - GPT-4V Level MLLM for Single Image, Multi Image and Video. ![Stars](https://img.shields.io/github/stars/OpenBMB/MiniCPM-V?style=flat-square)
 - **[Qwen2-VL](https://github.com/QwenLM/Qwen2-VL)** - Multimodal large language model series by Qwen team, Alibaba Cloud. ![Stars](https://img.shields.io/github/stars/QwenLM/Qwen2-VL?style=flat-square)
 - **[llama-fs](https://github.com/iyaja/llama-fs)** - A self-organizing file system with llama 3. ![Stars](https://img.shields.io/github/stars/iyaja/llama-fs?style=flat-square)
@@ -185,15 +175,24 @@ Domain-specific and experimental AI applications.
 
 ## Archived Projects
 
-_These projects haven't been updated in over 2 years and may be unmaintained or deprecated._
+_These projects haven't been updated in over 2 years and may be unmaintained._
 
-- **[jukebox](https://github.com/openai/jukebox)** - A Generative Model for Music. ![Stars](https://img.shields.io/github/stars/openai/jukebox?style=flat-square) _(Last updated: Nov 2020)_
-- **[stable-diffusion](https://github.com/CompVis/stable-diffusion)** - A latent text-to-image diffusion model. ![Stars](https://img.shields.io/github/stars/CompVis/stable-diffusion?style=flat-square) _(Last updated: Nov 2022)_
-- **[dalai](https://github.com/cocktailpeanut/dalai)** - The simplest way to run LLaMA on your local machine. ![Stars](https://img.shields.io/github/stars/cocktailpeanut/dalai?style=flat-square) _(Last updated: Mar 2023)_
-- **[VoiceGPT](https://github.com/Shreyas-ITB/VoiceGPT)** - AI powered by EdgeGPT and LLaMa.cpp that you can talk to! ![Stars](https://img.shields.io/github/stars/Shreyas-ITB/VoiceGPT?style=flat-square) _(Last updated: Apr 2023)_
-- **[AudioGPT](https://github.com/AIGC-Audio/AudioGPT)** - Understanding and Generating Speech, Music, Sound, and Talking Head. ![Stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=flat-square) _(Last updated: May 2023)_
-- **[stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)** - Code and documentation to train Stanford's Alpaca models. ![Stars](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca?style=flat-square) _(Last updated: May 2023)_
-- **[Doctor-Dignity](https://github.com/llSourcell/Doctor-Dignity)** - LLM that can pass the US Medical Licensing Exam. Works offline. ![Stars](https://img.shields.io/github/stars/llSourcell/Doctor-Dignity?style=flat-square) _(Last updated: Sep 2023)_
+- **[AudioGPT](https://github.com/AIGC-Audio/AudioGPT)** - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head ![Stars](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT?style=flat-square) _(Last updated: 2023-05-05)_
+- **[bark](https://github.com/suno-ai/bark)** - 🔊 Text-Prompted Generative Audio Model ![Stars](https://img.shields.io/github/stars/suno-ai/bark?style=flat-square) _(Last updated: 2024-04-05)_
+- **[dalai](https://github.com/cocktailpeanut/dalai)** - The simplest way to run LLaMA on your local machine ![Stars](https://img.shields.io/github/stars/cocktailpeanut/dalai?style=flat-square) _(Last updated: 2023-03-22)_
+- **[Doctor-Dignity](https://github.com/llSourcell/Doctor-Dignity)** - Doctor Dignity is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private. ![Stars](https://img.shields.io/github/stars/llSourcell/Doctor-Dignity?style=flat-square) _(Last updated: 2023-09-21)_
+- **[FreeAskInternet](https://github.com/nashsu/FreeAskInternet)** - FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will  make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.  ![Stars](https://img.shields.io/github/stars/nashsu/FreeAskInternet?style=flat-square) _(Last updated: 2024-04-13)_
+- **[FreedomGPT](https://github.com/ohmplatform/FreedomGPT)** - This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface ![Stars](https://img.shields.io/github/stars/ohmplatform/FreedomGPT?style=flat-square) _(Last updated: 2024-06-13)_
+- **[GFPGAN](https://github.com/TencentARC/GFPGAN)** - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. ![Stars](https://img.shields.io/github/stars/TencentARC/GFPGAN?style=flat-square) _(Last updated: 2024-04-02)_
+- **[jukebox](https://github.com/openai/jukebox)** - Code for the paper "Jukebox: A Generative Model for Music" ![Stars](https://img.shields.io/github/stars/openai/jukebox?style=flat-square) _(Last updated: 2020-11-14)_
+- **[llama-gpt](https://github.com/getumbrel/llama-gpt)** - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support! ![Stars](https://img.shields.io/github/stars/getumbrel/llama-gpt?style=flat-square) _(Last updated: 2023-10-09)_
+- **[LLaVA](https://github.com/haotian-liu/LLaVA)** - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond. ![Stars](https://img.shields.io/github/stars/haotian-liu/LLaVA?style=flat-square) _(Last updated: 2024-05-11)_
+- **[magenta-js](https://github.com/magenta/magenta-js)** - Magenta.js: Music and Art Generation with Machine Learning in the browser ![Stars](https://img.shields.io/github/stars/magenta/magenta-js?style=flat-square) _(Last updated: 2024-03-25)_
+- **[Omost](https://github.com/lllyasviel/Omost)** - Your image is almost there! ![Stars](https://img.shields.io/github/stars/lllyasviel/Omost?style=flat-square) _(Last updated: 2024-06-03)_
+- **[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration. ![Stars](https://img.shields.io/github/stars/xinntao/Real-ESRGAN?style=flat-square) _(Last updated: 2024-04-02)_
+- **[stable-diffusion](https://github.com/CompVis/stable-diffusion)** - A latent text-to-image diffusion model ![Stars](https://img.shields.io/github/stars/CompVis/stable-diffusion?style=flat-square) _(Last updated: 2022-11-16)_
+- **[stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)** - Code and documentation to train Stanford's Alpaca models, and generate the data. ![Stars](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca?style=flat-square) _(Last updated: 2023-05-30)_
+- **[VoiceGPT](https://github.com/Shreyas-ITB/VoiceGPT)** - A cool AI powered by EdgeGPT and LLaMa.cpp that you can talk to!  ![Stars](https://img.shields.io/github/stars/Shreyas-ITB/VoiceGPT?style=flat-square) _(Last updated: 2023-04-10)_
 
 ## Contributing
 
