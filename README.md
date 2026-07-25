@@ -172,6 +172,7 @@ Domain-specific and experimental AI applications.
 - **[llama-fs](https://github.com/iyaja/llama-fs)** - A self-organizing file system with llama 3. ![Stars](https://img.shields.io/github/stars/iyaja/llama-fs?style=flat-square)
 - **[ai-town](https://github.com/a16z-infra/ai-town)** - Virtual town where AI characters live, chat and socialize. ![Stars](https://img.shields.io/github/stars/a16z-infra/ai-town?style=flat-square)
 - **[Marp-AI](https://github.com/JMcrafter26/Marp-AI)** - Generate presentations using Ollama AI and Marp. ![Stars](https://img.shields.io/github/stars/JMcrafter26/Marp-AI?style=flat-square)
+- **[sounds-ai](https://github.com/parweb/sounds-ai)** - Deterministic offline checker that scores text against ~60 AI-writing tells, in a single HTML file. ![Stars](https://img.shields.io/github/stars/parweb/sounds-ai?style=flat-square)
 
 ## Archived Projects
 
