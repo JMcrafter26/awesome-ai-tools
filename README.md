@@ -84,6 +84,7 @@ No-code/low-code platforms for building AI applications and workflows.
 
 Text-to-speech, voice cloning, and speech recognition tools.
 
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - **[whisper](https://github.com/openai/whisper)** - Robust Speech Recognition via Large-Scale Weak Supervision. ![Stars](https://img.shields.io/github/stars/openai/whisper?style=flat-square)
 - **[fish-speech](https://github.com/fishaudio/fish-speech)** - SOTA Open Source TTS. ![Stars](https://img.shields.io/github/stars/fishaudio/fish-speech?style=flat-square)
 - **[CosyVoice](https://github.com/FunAudioLLM/CosyVoice)** - Multi-lingual large voice generation model with full-stack deployment ability. ![Stars](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=flat-square)
