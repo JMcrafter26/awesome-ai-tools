@@ -53,6 +53,7 @@ Autonomous agents that can perform tasks, research, and make decisions.
 - **[plandex](https://github.com/plandex-ai/plandex)** - AI driven development in your terminal. Designed for large, real-world tasks. ![Stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=flat-square)
 - **[NotFair](https://github.com/nowork-studio/NotFair)** - Open-source Claude Code agent skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. ![Stars](https://img.shields.io/github/stars/nowork-studio/NotFair?style=flat-square)
 - **[fractal](https://github.com/plasma-ai/fractal)** - Hierarchical coding-agent runtime for bounded autonomous loops with recursive delegation, isolated Git worktrees, persistent SQLite state, and live operator controls. ![Stars](https://img.shields.io/github/stars/plasma-ai/fractal?style=flat-square)
+- **[atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)** - Local-first CLI and TUI agent that runs open-weight models entirely on your machine via a llama.cpp fork, with 56 built-in tools, MCP support, and a five-layer local memory system. No account or API key required. Developer preview. ![Stars](https://img.shields.io/github/stars/AtomicBot-ai/atomic-agent?style=flat-square)
 
 ## AI Assistants & Chatbots
 
@@ -136,6 +137,7 @@ AI-powered coding tools and assistants.
 - **[cofounder](https://github.com/raidendotai/cofounder)** - AI-generated apps, full stack + generative UI. ![Stars](https://img.shields.io/github/stars/raidendotai/cofounder?style=flat-square)
 - **[aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B)** - Official repository of aiXcoder-7B Code Large Language Model. ![Stars](https://img.shields.io/github/stars/aixcoder-plugin/aiXcoder-7B?style=flat-square)
 - **[writer](https://github.com/mintlify/writer)** - AI powered documentation writer. ![Stars](https://img.shields.io/github/stars/mintlify/writer?style=flat-square)
+- **[atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)** - Local-first coding assistant for the terminal, with a React and ink TUI, that runs open-weight models entirely on your machine. Cross-platform on macOS, Linux, and Windows. Developer preview. ![Stars](https://img.shields.io/github/stars/AtomicBot-ai/atomic-agent?style=flat-square)
 
 ## Computer Vision
 
