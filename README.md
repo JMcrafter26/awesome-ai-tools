@@ -161,6 +161,7 @@ Courses and educational materials for AI/ML.
 
 Monitoring, debugging, and evaluating AI systems.
 
+- **[Agent QA](https://github.com/vostride/agent-qa)** - Source-available QA agent for natural-language web and mobile regression tests with persistent memory, run artifacts, CLI, and MCP. ![Stars](https://img.shields.io/github/stars/vostride/agent-qa?style=flat-square)
 - **[phoenix](https://github.com/Arize-ai/phoenix)** - AI Observability & Evaluation. ![Stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=flat-square)
 
 ## Specialized AI Tools
