@@ -52,6 +52,15 @@ def check_outdated_repos(days_threshold=730):
     """
     github_token = os.environ.get('GITHUB_TOKEN')
     if not github_token:
+        # check argument for token
+        import argparse
+        parser = argparse.ArgumentParser(description='Check for outdated GitHub repositories.')
+        parser.add_argument('--token', type=str, help='GitHub Personal Access Token')
+        args = parser.parse_args()
+        if args.token:
+            github_token = args.token
+
+    if not github_token:
         print("⚠️  Warning: GITHUB_TOKEN not found in environment variables.")
         print("   API rate limits will be much lower (60 requests/hour).")
         print("   Set GITHUB_TOKEN to increase to 5000 requests/hour.\n")

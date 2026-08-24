@@ -104,3 +104,4 @@ https://github.com/THU-MIG/yolov10
 https://github.com/FunAudioLLM/CosyVoice
 https://github.com/sipeed/picoclaw
 https://github.com/Orkas-AI/Orkas
+https://github.com/baidu/Unlimited-OCR
