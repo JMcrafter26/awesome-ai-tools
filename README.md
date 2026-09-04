@@ -156,6 +156,7 @@ Tools and platforms for deploying and managing AI systems.
 Courses and educational materials for AI/ML.
 
 - **[llm-course](https://github.com/mlabonne/llm-course)** - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. ![Stars](https://img.shields.io/github/stars/mlabonne/llm-course?style=flat-square)
+- **[AI Words](https://aiwords.morio.cc/)** - Daily-tracked database of new AI concepts & terms (test-time training, token-level advertising...) with Chinese explanations, verified evidence and search signals.
 
 ## Observability & Evaluation
 
