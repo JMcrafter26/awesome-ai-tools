@@ -54,6 +54,8 @@ Autonomous agents that can perform tasks, research, and make decisions.
 - **[NotFair](https://github.com/nowork-studio/NotFair)** - Open-source Claude Code agent skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. ![Stars](https://img.shields.io/github/stars/nowork-studio/NotFair?style=flat-square)
 - **[fractal](https://github.com/plasma-ai/fractal)** - Hierarchical coding-agent runtime for bounded autonomous loops with recursive delegation, isolated Git worktrees, persistent SQLite state, and live operator controls. ![Stars](https://img.shields.io/github/stars/plasma-ai/fractal?style=flat-square)
 
+- **[Solgrok](https://github.com/LMajster/sgrok)** - Autonomous Solana creator-ops agent for $SGROK on Bags.fm. ![Stars](https://img.shields.io/github/stars/LMajster/sgrok?style=flat-square)
+
 ## AI Assistants & Chatbots
 
 User-friendly chat interfaces and personal AI assistants.
