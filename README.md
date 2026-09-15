@@ -194,6 +194,7 @@ _These projects haven't been updated in over 2 years and may be unmaintained._
 - **[stable-diffusion](https://github.com/CompVis/stable-diffusion)** - A latent text-to-image diffusion model ![Stars](https://img.shields.io/github/stars/CompVis/stable-diffusion?style=flat-square) _(Last updated: 2022-11-16)_
 - **[stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)** - Code and documentation to train Stanford's Alpaca models, and generate the data. ![Stars](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca?style=flat-square) _(Last updated: 2023-05-30)_
 - **[VoiceGPT](https://github.com/Shreyas-ITB/VoiceGPT)** - A cool AI powered by EdgeGPT and LLaMa.cpp that you can talk to!  ![Stars](https://img.shields.io/github/stars/Shreyas-ITB/VoiceGPT?style=flat-square) _(Last updated: 2023-04-10)_
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Contributing
 
