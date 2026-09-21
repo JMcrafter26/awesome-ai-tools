@@ -9,6 +9,7 @@
   - [Large Language Models](#large-language-models)
   - [AI Agents \& Autonomous Systems](#ai-agents--autonomous-systems)
   - [AI Assistants \& Chatbots](#ai-assistants--chatbots)
+- [MagicKit](https://magickit.47.80.8.174.nip.io) — **Free AI toolbox** for image generation (FLUX), text and video. No sign-up, no API key. MIT licensed. [Source](https://github.com/kaketiti/magickit)
   - [RAG \& Document AI](#rag--document-ai)
   - [AI Workflow Platforms](#ai-workflow-platforms)
   - [Voice \& Speech](#voice--speech)
