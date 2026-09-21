@@ -60,6 +60,7 @@ User-friendly chat interfaces and personal AI assistants.
 
 - **[ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)** - Cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). ![Stars](https://img.shields.io/github/stars/ChatGPTNextWeb/ChatGPT-Next-Web?style=flat-square)
 - **[khoj](https://github.com/khoj-ai/khoj)** - Your AI second brain. Self-hostable. Build custom agents, schedule automations, do deep research. ![Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=flat-square)
+- **[screenpipe](https://github.com/screenpipe/screenpipe)** - Search locally captured screen text and audio transcripts, with MCP context for AI assistants. [Free plan](https://screenpipe.com/pricing); source-available under the [Screenpipe Commercial License](https://github.com/screenpipe/screenpipe/blob/main/LICENSE.md). Configured cloud AI, transcription, sync, and integrations can send context off-device. ![Stars](https://img.shields.io/github/stars/screenpipe/screenpipe?style=flat-square)
 - **[Perplexica](https://github.com/ItzCrazyKns/Perplexica)** - AI-powered answering engine. ![Stars](https://img.shields.io/github/stars/ItzCrazyKns/Perplexica?style=flat-square)
 - **[browse-for-me](https://github.com/JMcrafter26/browse-for-me)** - Arc Search Browse for Me clone using Ollama and DuckDuckGo. ![Stars](https://img.shields.io/github/stars/JMcrafter26/browse-for-me?style=flat-square)
 
