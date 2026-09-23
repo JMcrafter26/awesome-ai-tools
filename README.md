@@ -145,6 +145,7 @@ Object detection, tracking, and visual analysis.
 - **[samurai](https://github.com/yangchris11/samurai)** - Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory. ![Stars](https://img.shields.io/github/stars/yangchris11/samurai?style=flat-square)
 
 ## AI Infrastructure
+- [NextReset](https://nextreset.ai/) - Independent, source-linked Codex reset history and official AI incident references, with a browser-local personal timer; no private account access or timing guarantees.
 
 Tools and platforms for deploying and managing AI systems.
 
