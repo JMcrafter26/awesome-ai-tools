@@ -130,6 +130,7 @@ Music generation and audio synthesis.
 
 ## Code Assistants
 
+- [TokenTracker](https://github.com/xiufengsun/TokenTracker) - Local-first AI token usage & cost tracker for coding tools (Claude Code, Codex, Cursor, and more). Privacy-first: token counts only, never prompts.
 AI-powered coding tools and assistants.
 
 - **[fabric](https://github.com/danielmiessler/fabric)** - Open-source framework for augmenting humans using AI prompts. ![Stars](https://img.shields.io/github/stars/danielmiessler/fabric?style=flat-square)
