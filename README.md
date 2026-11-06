@@ -112,6 +112,8 @@ Text-to-video and image-to-video generation.
 - **[Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)** - Open source reproduction of Sora (OpenAI T2V model). ![Stars](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan?style=flat-square)
 - **[LTX-Video](https://github.com/Lightricks/LTX-Video)** - Official repository for LTX-Video. ![Stars](https://img.shields.io/github/stars/Lightricks/LTX-Video?style=flat-square)
 
+- **[Cyanvid](https://cyanvid.com/?utm_source=jmcrafter26-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks)** - AI video generator: create from text or images with clear credit quotes up front.
+- **[Barz Studio](https://barzvideo.com/?utm_source=jmcrafter26-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks)** - Free browser editor for beat-reactive rap lyric videos (bring your own track).
 ## Image Generation
 
 Text-to-image generation and diffusion models.
