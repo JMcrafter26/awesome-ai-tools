@@ -173,6 +173,7 @@ Domain-specific and experimental AI applications.
 - **[llama-fs](https://github.com/iyaja/llama-fs)** - A self-organizing file system with llama 3. ![Stars](https://img.shields.io/github/stars/iyaja/llama-fs?style=flat-square)
 - **[ai-town](https://github.com/a16z-infra/ai-town)** - Virtual town where AI characters live, chat and socialize. ![Stars](https://img.shields.io/github/stars/a16z-infra/ai-town?style=flat-square)
 - **[Marp-AI](https://github.com/JMcrafter26/Marp-AI)** - Generate presentations using Ollama AI and Marp. ![Stars](https://img.shields.io/github/stars/JMcrafter26/Marp-AI?style=flat-square)
+- **[Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp)** - 18 Apify-hosted MCP servers for public data: SAM.gov, Grants.gov, USAspending, EU TED and UK tenders, city council meetings, Ashby/Greenhouse/Lever/SmartRecruiters jobs, company social links, Google Ads Transparency, Etsy sales, sports odds, Spotify play counts.
 
 ## Archived Projects
 
