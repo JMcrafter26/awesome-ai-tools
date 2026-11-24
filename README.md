@@ -93,6 +93,7 @@ Text-to-speech, voice cloning, and speech recognition tools.
 - **[Wav2Lip](https://github.com/Rudrabha/Wav2Lip)** - Lip sync expert for speech to lip generation. ![Stars](https://img.shields.io/github/stars/Rudrabha/Wav2Lip?style=flat-square)
 - **[AudioLDM](https://github.com/haoheliu/AudioLDM)** - Generate speech, sound effects, music and beyond, with text. ![Stars](https://img.shields.io/github/stars/haoheliu/AudioLDM?style=flat-square)
 - **[AI-Video-Translation](https://github.com/pranauv1/AI-Video-Translation)** - Translate videos into multiple languages along with lip sync. ![Stars](https://img.shields.io/github/stars/pranauv1/AI-Video-Translation?style=flat-square)
+- **[EarScribe](https://earscribe.app)** - Free browser-based transcription: Whisper runs on WebGPU with a WebAssembly fallback, exporting a timestamped transcript as SRT or VTT.
 
 ## Face & Video Manipulation
 
