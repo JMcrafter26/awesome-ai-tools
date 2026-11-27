@@ -122,6 +122,8 @@ Text-to-image generation and diffusion models.
 
 ## Image Enhancement
 
+- [TinyMast](https://tinymast.com/image-upscale/) - Upscales images 2x or 4x with AI and compresses JPG, PNG, WebP and GIF files to a target KB size, one file at a time or up to 100 per batch. Free, no account; uploaded files are deleted within 24 hours.
+
 Image upscaling, restoration, and enhancement.
 
 ## Music & Audio
